@@ -1,0 +1,354 @@
+:root {
+  --gold: #d4af37;
+  --orange: #ffe4b3;
+  --light-gold: #ffdb51;
+  --dark-gold: #ccad00;
+  --green: #d3e4ce;
+}
+
+h2 {
+  font-family: "Sofia";
+}
+
+.section {
+  margin-top: 72px;
+}
+
+@media (min-width: 992px) {
+  .section {
+    margin-top: 88px;
+  }
+} 
+
+.bg-orange {
+  background-color: var(--orange);
+}
+
+.bg-gold {
+  background: -webkit-linear-gradient(
+    #b78727,
+    #cca01d,
+    #daa520,
+    #e1ad21,
+    #daa520,
+    #cca01d,
+    #b78727);
+}
+
+.bg-green {
+  background-color: var(--green);
+}
+
+.bg-line {
+  background: var(--orange) url("./img/arany-vonal.png");
+  background-size: 100% 100%;
+}
+
+.bg-drop {
+  background: var(--orange) url("./img/csepp.jpg");
+  background-size: 100% 100%;
+}
+
+.text-orange {
+  color: #cc3300;
+  text-shadow: 0.3px 0.3px 1px #000000;
+}
+
+.text-gold3 {
+  background: -webkit-linear-gradient(
+    #b78727,
+    #cca01d,
+    #daa520,
+    #e1ad21,
+    #daa520,
+    #cca01d,
+    #b78727);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: bold;
+}
+
+.text-gold2 {
+  color: #cca01d;
+  text-shadow: 0.3px 0.3px 1px #000000;
+  font-size: 20px;
+}
+
+.text-gold {
+  background: -webkit-linear-gradient(#b78727,
+            #cca01d,
+            #daa520,
+            #e1ad21,
+            #fcc200,
+            #ffcc33,
+            #ffdf00,
+            #ffcc33,
+            #fcc200,
+            #e1ad21,
+            #daa520,
+            #cca01d,
+            #b78727);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.btn-gold {
+  background: -webkit-linear-gradient(
+    #b78727,
+    #cca01d,
+    #daa520,
+    #e1ad21,
+    #daa520,
+    #cca01d,
+    #b78727);
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+.btn-white {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: white;
+}
+
+.rounded-card {
+  border-radius: 20px;
+}
+
+.rounded-small-card {
+  border-radius: 14px;
+}
+
+.textOverImg, .img-title {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.img-text-container {
+  position: relative;
+}
+
+.italic {
+  font-style: italic;
+}
+
+@media screen and (min-width: 992px) {
+  .w-100.w-sm-75.w-lg-50 {
+    width: 50% !important;
+  }
+
+  .h-100.h-sm-75.h-lg-50 {
+    height: 50% !important;
+  }
+}
+
+@media screen and (min-width: 701px) and (max-width: 991px) {
+  .w-100.w-sm-75.w-lg-50 {
+    width: 75% !important;
+  }
+
+  .h-100.h-sm-75.h-lg-50 {
+    height: 75% !important;
+  }
+}
+
+@media screen and (min-width: 701px) and (max-width: 991px) {
+  .bg-md {
+    display: inline;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .bg-lg {
+    display: inline;
+  }
+
+  .bg-md {
+    display: none;
+  }
+}
+
+.img-bq-small {
+  display: none;
+}
+
+@media screen and (max-width: 768px) {
+  .img-bq {
+    display: none;
+  }
+
+  .img-bq-small {
+    display: block;
+  }
+}
+
+
+.aranykozi-tudatossag {
+  position: relative;
+}
+
+.main-img-text {
+  font-size: 22px;
+}
+
+@media screen and (max-width: 576px) {
+  .main-img-text {
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .aranykozi-tudatossag {
+    background: black url("./img/bg-1-sm.jpg");
+    background-size: 100% 100%;
+    position: static;
+    padding: 30px;
+  }
+  
+  .textOverImg {
+    position: static;
+    transform: none;
+  }
+
+  .bg-md, .bg-lg {
+    display: none;
+  }
+}
+
+
+.introduce {
+  background: url("./img/levelek0.2.png");
+  background-size: 100% 100%;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  grid-template-rows: repeat(3, auto);
+}
+
+.grid-item-img {
+  grid-column-start: 1;
+  grid-column-end: 2;
+  grid-row-start: 1;
+  grid-row-end: 4;
+  padding-top: 0.25rem;
+}
+
+.grid-item-intro {
+  grid-column-start: 2;
+  grid-column-end: 3;
+  grid-row-start: 1;
+  grid-row-end: 2;
+}
+
+.grid-item-studies {
+  grid-column-start: 2;
+  grid-column-end: 3;
+  grid-row-start: 2;
+  grid-row-end: 4;
+}
+
+@media screen and (max-width: 1200px) {
+  .grid-item-img {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 3;
+  }
+
+  .grid-item-intro {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 3;
+  }
+  
+  .grid-item-studies {
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-start: 3;
+    grid-row-end: 4;
+  }
+}
+
+.title-small {
+  display: none;
+}
+
+@media screen and (max-width: 768px) {
+  .introduce-1, .introduce-2 {
+    background: url("./img/levelek0.2.png");
+    background-size: 100% 100%;
+  }
+
+  .introduce {
+    background: none;
+  }
+
+  .title-big {
+    display: none;
+  }
+
+  .title-small {
+    display: block;
+  }
+
+  .grid-container {
+    grid-template-columns: 2fr 5fr;
+  }
+  
+  .grid-item-img {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 2;
+    grid-row-end: 4;
+    padding-top: 1.5rem;
+  }
+
+  .grid-item-intro {
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 2;
+  }
+  
+  .grid-item-studies {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 2;
+    grid-row-end: 4;
+  }
+}
+
+@media screen and (max-width: 576px) {
+
+  .grid-item-img {
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-start: 2;
+    grid-row-end: 3;
+    margin:auto;
+    max-width: 300px;
+  }
+
+  .grid-item-intro {
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 2;
+  }
+  
+  .grid-item-studies {
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-start: 3;
+    grid-row-end: 4;
+  }
+}

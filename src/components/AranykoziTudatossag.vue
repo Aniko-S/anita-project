@@ -1,0 +1,46 @@
+<template>
+  <div class="aranykozi-tudatossag">
+    <img
+      src="../assets/img/bg-1.jpg"
+      alt="Aranyközi Tudatosság"
+      class="w-100 d-none d-lg-inline bg-lg"
+    />
+    <img
+      src="../assets/img/bg-1-md.jpg"
+      alt="Aranyközi Tudatosság"
+      class="w-100 bg-md"
+    />
+    <div
+      class="
+        textOverImg
+        h-100 h-sm-75 h-lg-50
+        w-100 w-sm-75 w-lg-50
+        d-flex
+        flex-column
+        align-items-center
+        justify-content-around
+        text-center
+        px-3
+      "
+    >
+      <h3 class="my-2 text-gold">
+        Gyere velem, hogy átvezesselek az Aranykori Tudatosságba!
+      </h3>
+      <div class="my-2 text-gold">
+        Az „Aranykori Lélekhangoló” módszerével áthangoljuk egész lényed, hogy
+        más színben lásd a tényleges valóságot, s abban tudd a helyed, s a
+        vállalt feladatod! Lelked szent terét kell ehhez megtisztítani,
+        áthangolni, felhangolni (mely átállítódott, s milliónyi sérelem,
+        fájdalom, s bántódás érte), s egy magasabb tudatosság felé elindulni,
+        mely által ÁTTRANSZFORMÁLHATOD Életed!
+      </div>
+      <div class="my-2 text-gold">Szeretnéd ezt megtapasztalni?</div>
+      <h4 class="my-2 text-gold">A DÖNTÉS és VÁLASZTÁS joga rajtad áll!</h4>
+      <h6 class="my-2 text-gold">Életed új startvonalához állhatsz!</h6>
+      <div class="my-2 text-gold">Kérdés Önmagadhoz:</div>
+      <div class="my-2 text-gold">
+        Újrateremtés (restruktuáció) vagy süllyedés (degradáció)?
+      </div>
+    </div>
+  </div>
+</template>

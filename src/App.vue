@@ -1,28 +1,43 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <nav-bar />
+    <kezdolap />
+    <inspirallak />
+    <aranykozi-tudatossag />
+    <segitek />
+    <bemutatkozas />
+    <kuldetesem />
+    <szolgaltatasaim />
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import NavBar from "./components/NavBar.vue";
+import Kezdolap from "./components/Kezdolap.vue";
+import Inspirallak from "./components/Inspirallak.vue";
+import AranykoziTudatossag from "./components/AranykoziTudatossag.vue";
+import Segitek from "./components/Segitek.vue";
+import Bemutatkozas from "./components/Bemutatkozas.vue";
+import Kuldetesem from "./components/Kuldetesem.vue";
+import Szolgaltatasaim from "./components/Szolgaltatasaim.vue";
 
 export default {
-  name: 'App',
+  name: "App",
   components: {
-    HelloWorld
-  }
-}
+    NavBar,
+    Kezdolap,
+    Inspirallak,
+    AranykoziTudatossag,
+    Segitek,
+    Bemutatkozas,
+    Kuldetesem,
+    Szolgaltatasaim,
+  },
+};
 </script>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+@import "./assets/style.css";
+@import "./assets/styles2.css";
+@import url("https://fonts.googleapis.com/css2?family=Sofia&display=swap");
 </style>
