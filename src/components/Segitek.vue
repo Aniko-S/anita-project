@@ -1,14 +1,14 @@
 <template>
-  <div id="segitek" class="mx-2 my-5">
-    <h4 class="text-center">
+  <div id="segitek" class="px-3 section">
+    <h2 class="text-center mb-4">
       Miben tudok Neked, mint Csodálatos Lénynek hozzájárulás lenni Életed új
       mederbe tereléséhez?
-    </h4>
-    <h6 class="text-center">
+    </h2>
+    <h5 class="text-center my-4">
       Komplex, saját egyénileg feldolgozott módszerem alapján hazavezetlek
       Önmagadhoz, sebesült lelked kigyógyul, meggyógyul az alábbi sebesülés
       mintákból:
-    </h6>
+    </h5>
 
     <div class="d-flex flex-row flex-wrap">
       <div
@@ -56,8 +56,8 @@
     </div>
     <div class="text-center mt-4">
       <button class="btn-gold">
-        Megoldás: Eredeti Önvalód megismerése! Visszatalálni az Isteni
-        minőséghez!
+        Megoldás: <br />Eredeti Önvalód megismerése! <br />Visszatalálni az
+        Isteni minőséghez!
       </button>
     </div>
   </div>

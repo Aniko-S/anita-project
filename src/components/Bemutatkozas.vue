@@ -1,68 +1,60 @@
 <template>
   <div id="bemutatkozas" class="section">
-    <div class="introduce">
-      <h2 class="text-center title-big pt-4">Bemutatkozás</h2>
-      <div class="introduce-1 grid-container p-3">
-        <div class="grid-item-img px-2">
+    <div
+      class="introduce rounded-card mx-3 mx-md-4 mx-lg-5 py-4 shadow"
+      style="overflow: hidden"
+    >
+      <div class="px-3">
+        <h1 class="text-center mb-4">Bemutatkozás</h1>
+        <h4 class="mb-3">Ki vagyok én?</h4>
+        <h5 class="text-dark-green">
+          Mi az, amit látsz belőlem, s mi az, amit nem?
+        </h5>
+        <div>
+          Láthatod a felszínt, a „jéghegy csúcsát”, mely az úgynevezett látható
+          tartományban van. Ez alapján ítélhetsz, felismerhetsz, rám
+          csodálkozhatsz… de meg nem ismerhetsz.
+        </div>
+        <div>
+          Szerethetsz, semleges lehetsz, nem szerethetsz, Te választhatsz.
+        </div>
+        <div>
+          <span class="text-red"
+            >De mi lakozik a láthatatlan tartományban?
+          </span>
+          <span>
+            Ott rejtőzik az Eredeti Minta, a Mag-Energia, Mag-Erő, a
+            Mag-Essentia, mert ez alapján vagy EMBER.. vagy sem.
+          </span>
+        </div>
+        <div class="italic my-3 btn-gold">
+          „Mindenkit csak úgy ismerhetsz meg, ha látod a lelkét, hogy ki is Ő
+          Eredet szinten. S csak egy tiszta lelkű láthatja a másik lelkét
+          olyannak, amilyen valójában.”
+        </div>
+        <div class="text-center p-4">
           <img
             src="../assets/img/steiber-anita.jpg"
             alt="Steiber Anita"
-            class="w-100"
-            style="border: 1px solid #a6a6a6"
+            class="w-75"
+            style="border: 1px solid #a6a6a6; max-width: 400px"
           />
         </div>
-
-        <div
-          class="grid-item-intro px-3 d-flex flex-column justify-content-around"
-        >
-          <div>
-            <h2 class="text-center title-small">Bemutatkozás</h2>
-            <div>
-              Ki vagyok én? Mi az, amit látsz belőlem, s mi az, amit nem?
-            </div>
-            <div>
-              Láthatod a felszínt, a „jéghegy csúcsát”, mely az úgynevezett
-              látható tartományban van. Ez alapján ítélhetsz, felismerhetsz, rám
-              csodálkozhatsz… de meg nem ismerhetsz.
-            </div>
-            <div>
-              Szerethetsz, semleges lehetsz, nem szerethetsz, Te választhatsz.
-            </div>
-            <div>
-              <span class="text-gold2"
-                >De mi lakozik a láthatatlan tartományban?
-              </span>
-              <span>
-                Ott rejtőzik az Eredeti Minta, a Mag-Energia, Mag-Erő, a
-                Mag-Essentia, mert ez alapján vagy EMBER.. vagy sem.
-              </span>
-            </div>
-          </div>
-
-          <div class="italic my-3 btn-gold">
-            „Mindenkit csak úgy ismerhetsz meg, ha látod a lelkét, hogy ki is Ő
-            Eredet szinten. S csak egy tiszta lelkű láthatja a másik lelkét
-            olyannak, amilyen valójában.”
-          </div>
-          <div>
-            <div>
-              <span> Mindenek felett tanítónak vallom magam, a </span>
-              <span class="text-gold2">
-                Szeretet és Tudatosság Tanítója vagyok, Lélekkalauz,
-                Léleknavigátor, Lélekinspirátor.
-              </span>
-            </div>
-            <div>
-              Dr Steiber Antia Tünde vagyok, Tudatosságfejlesztő-tréner,
-              Aranykori párkapcsolati coach. Hosszú folyamaton mentem keresztül,
-              míg valós, igazi énemre rátaláltam, s most már úgy érzem…
-              megérkeztem.
-            </div>
-          </div>
+        <div>
+          <span> Mindenek felett tanítónak vallom magam, a </span>
+          <span class="text-red">
+            Szeretet és Tudatosság Tanítója vagyok, Lélekkalauz, Léleknavigátor,
+            Lélekinspirátor.
+          </span>
         </div>
-        <div class="grid-item-studies d-flex flex-wrap px-3 mt-3">
+        <div>
+          Dr Steiber Antia Tünde vagyok, Tudatosságfejlesztő tréner, Aranykori
+          párkapcsolati coach. Hosszú folyamaton mentem keresztül, míg valós,
+          igazi énemre rátaláltam, s most már úgy érzem… megérkeztem.
+        </div>
+        <div class="grid-item-studies d-flex flex-wrap mt-5">
           <div class="col-12 col-md-6">
-            <div>Eddigi tanulmányaim:</div>
+            <h4 class="mb-3">Eddigi tanulmányaim:</h4>
             <div>
               <list-item text="SZOTE (Gyógyszerésztudományi Kar)" />
               <list-item
@@ -92,72 +84,57 @@
         </div>
       </div>
 
-      <div class="introduce-2 p-4">
-        <h5>Eredet szinten</h5>
+      <div class="introduce-2 px-3 pt-5">
+        <h4 class="mb-3">Eredet szinten:</h4>
         <p>
           A régi énem elhallgatott… átváltoztam, átalakultam, s megszületett egy
           Új Ember, immáron más értékrenddel, mint, amit tanítottak, a Tiszta
           Forrás eredeti paradigmáival, megtapasztalásaival, megélésével.
         </p>
-
-        <div class="d-flex flex-wrap">
-          <div class="col-12 col-md-8">
-            <p>
-              Ráláttam, hogy az emberiség nagy problémája a mérhetetlen
-              <span class="text-orange"> szeretet-hiány</span>, s ezt vetítik ki
-              mindenféle extrém formában, hogy valami energiakvantumot
-              visszakapjanak, visszalopkodjanak, vagy kicsikarjanak
-              embertársaikból. Úgy döntöttem, hogy az elsődleges hangsúlyt erre
-              fektetem, megtanítani az embereket
-              <span class="text-gold2">
-                saját magukat felismerni, értékelni, becsülni és szeretni.
-              </span>
-            </p>
-            <p>
-              Munkám során:
-              <list-item text="Sok előadást tartottam." />
-              <list-item text="Rengeteg kezelést végeztem." />
-            </p>
-            <p>
-              Mostani küldetésemben egyéni életvezetéseket, oldásokat,
-              áthangolásokat végzek, mert erre van óriási igény, szinte
-              szomjazzák a lelkek.
-            </p>
-            <div class="italic my-2 btn-gold">
-              „Játszani jöttél, játssz! Ne vesztegesd az időd! Minden percnek
-              érezd az ízét, zamatát, illatát! Élj, szárnyalj, tapasztalj az
-              Isteni Morál szerint!”
-            </div>
-          </div>
-          <div class="col-12 col-md-4 text-center">
-            <img
-              src="../assets/img/magunkra-talalas.jpg"
-              style="width: 95%; max-width: 400px; border: 1px solid #ffb399"
-            />
+        <p>
+          Ráláttam, hogy az emberiség nagy problémája a mérhetetlen
+          <span class="text-orange"> szeretet-hiány</span>, s ezt vetítik ki
+          mindenféle extrém formában, hogy valami energiakvantumot
+          visszakapjanak, visszalopkodjanak, vagy kicsikarjanak embertársaikból.
+          Úgy döntöttem, hogy az elsődleges hangsúlyt erre fektetem, megtanítani
+          az embereket
+          <span class="text-red">
+            saját magukat felismerni, értékelni, becsülni és szeretni.
+          </span>
+        </p>
+        <div class="text-center">
+          <img
+            src="../assets/img/magunkra-talalas.jpg"
+            class="w-75"
+            style="max-width: 400px; border: 1px solid #ffb399"
+          />
+        </div>
+        <div>
+          <div class="text-dark-green">Munkám során:</div>
+          <list-item text="Sok előadást tartottam." />
+          <list-item text="Rengeteg kezelést végeztem." />
+        </div>
+        <div>
+          <div class="text-dark-green">Mostani küldetésemben:</div>
+          <div>
+            Egyéni életvezetéseket, oldásokat, áthangolásokat végzek, mert erre
+            van óriási igény, szinte szomjazzák a lelkek.
           </div>
         </div>
-      </div>
-    </div>
-    <div class="d-flex justify-content-center px-3 px-md-1">
-      <div
-        class="
-          bg-orange
-          text-center
-          col-12 col-md-10 col-xl-8
-          mt-3
-          py-3
-          px-2
-          rounded-card
-          shadow
-        "
-      >
+        <div class="italic my-2 btn-gold">
+          „Játszani jöttél, játssz! Ne vesztegesd az időd! Minden percnek érezd
+          az ízét, zamatát, illatát! Élj, szárnyalj, tapasztalj az Isteni Morál
+          szerint!”
+        </div>
         <p>
-          <span>Isten Társteremtője vagy! </span>
-          <span class="text-gold2">Válj méltóvá erre! </span>
+          <span class="text-red">Isten Társteremtője vagy! </span>
+          <span>Válj méltóvá erre! </span>
         </p>
         <p>
           <span> Ha kíváncsi vagy a </span>
-          <button class="btn-gold p-1">„HOGYAN?”</button>
+          <button class="btn-gold p-1" style="font-size: 16px">
+            „HOGYAN?”
+          </button>
           <span>
             -ra, akkor én pedig kíváncsi vagyok a Te csodálatos Teremtő
             Képességedre!

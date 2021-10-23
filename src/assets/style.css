@@ -1,13 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Oregano&display=swap");
+
 :root {
   --gold: #d4af37;
   --orange: #ffe4b3;
   --light-gold: #ffdb51;
   --dark-gold: #ccad00;
-  --green: #d3e4ce;
+  --red: #950217;
+  --green: #2c5926;
+  --dark-green: #1b3617;
+}
+
+h1 {
+  font-family: Sofia !important;
+  font-style: italic;
+  color: var(--green);
 }
 
 h2 {
-  font-family: "Sofia";
+  color: var(--red);
+}
+
+h4 {
+  color: var(--red);
 }
 
 .section {
@@ -35,8 +49,9 @@ h2 {
     #b78727);
 }
 
-.bg-green {
-  background-color: var(--green);
+.bg-colorful {
+  background: url("./img/bg-4.jpg");
+  background-size: 100% 100%;
 }
 
 .bg-line {
@@ -44,14 +59,19 @@ h2 {
   background-size: 100% 100%;
 }
 
-.bg-drop {
-  background: var(--orange) url("./img/csepp.jpg");
-  background-size: 100% 100%;
+.text-red {
+  color: var(--red);
+  font-weight: 900;
 }
 
-.text-orange {
-  color: #cc3300;
-  text-shadow: 0.3px 0.3px 1px #000000;
+.text-green {
+  color: var(--green);
+  font-weight: 900;
+}
+
+.text-dark-green {
+  color: var(--dark-green);
+  font-weight: 900;
 }
 
 .text-gold3 {
@@ -104,8 +124,9 @@ h2 {
   padding: 10px 20px;
   border: none;
   border-radius: 5px;
-  color: white;
-  text-shadow: 2px 2px 4px #000000;
+  color: #1b3617;
+  font-weight: 700;
+  font-size: 20px;
 }
 
 .btn-white {
@@ -178,7 +199,7 @@ h2 {
   display: none;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 900px) {
   .img-bq {
     display: none;
   }
@@ -189,18 +210,139 @@ h2 {
 }
 
 
-.aranykozi-tudatossag {
-  position: relative;
+@media screen and (min-width: 1200px) {
+  .main-title {
+    font-size: 90px;
+  }
+
+  .main-img-text {
+    font-size: 28px;
+  }
+
+  .name {
+    font-size: 40px;
+  }
 }
 
-.main-img-text {
-  font-size: 22px;
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+  .main-title {
+    font-size: 65px;
+  }
+  
+  .main-img-text {
+    font-size: 22px;
+  }
+
+  .name {
+    font-size: 40px;
+  }
 }
 
-@media screen and (max-width: 576px) {
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+  .main-img-text {
+    font-size: 20px;
+  }
+
+  .main-title {
+    font-size: 65px;
+  }
+
+  .name {
+    font-size: 40px;
+  }
+}
+
+
+@media screen  and (min-width: 576px) and (max-width: 767px) {
+  .main-title {
+    font-size: 70px;
+  }
+
+  .name {
+    font-size: 40px;
+  }
+
+  .main-img-text {
+    font-size: 20px
+  }
+}
+
+
+@media screen and (min-width: 480px) and (max-width: 575px) {
+  .main-title {
+    font-size: 50px;
+  }
+
+  .name {
+    font-size: 30px;
+  }
+
   .main-img-text {
     font-size: 16px;
   }
+}
+
+
+@media screen and (min-width: 380px) and (max-width: 479px) {
+  .main-title {
+    font-size: 40px;
+  }
+
+  .name {
+    font-size: 20px;
+  }
+
+  .main-img-text {
+    font-size: 16px;
+  }
+}
+
+
+@media screen and (min-width: 330px) and (max-width: 379px) {
+  .main-title {
+    font-size: 30px;
+  }
+
+  .name {
+    font-size: 16px;
+  }
+
+  .main-img-text {
+    font-size: 14px
+  } 
+}
+
+
+@media screen and (max-width: 330px) {
+  .main-title {
+    font-size: 25px;
+  }
+
+  .name {
+    font-size: 16px;
+  }
+
+  .main-img-text {
+    font-size: 14px;
+  } 
+}
+
+@media screen and (min-width: 380px) {
+  h1 {
+    font-size: 50px;
+  }
+}
+
+@media screen and (max-width: 379px) {
+  h1 {
+    font-size: 40px;
+  }
+}
+
+
+.aranykozi-tudatossag {
+  position: relative;
 }
 
 @media screen and (max-width: 700px) {
@@ -224,7 +366,7 @@ h2 {
 
 .introduce {
   background: url("./img/levelek0.2.png");
-  background-size: 100% 100%;
+  background-size: 100% auto;
 }
 
 .grid-container {
@@ -283,15 +425,15 @@ h2 {
 }
 
 @media screen and (max-width: 768px) {
-  .introduce-1, .introduce-2 {
+  /* .introduce-1, .introduce-2 {
     background: url("./img/levelek0.2.png");
     background-size: 100% 100%;
-  }
+  } */
 
-  .introduce {
+  /* .introduce {
     background: none;
-  }
-
+  }  */
+/* 
   .title-big {
     display: none;
   }
@@ -325,6 +467,7 @@ h2 {
     grid-row-start: 2;
     grid-row-end: 4;
   }
+  */
 }
 
 @media screen and (max-width: 576px) {

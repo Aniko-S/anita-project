@@ -1,77 +1,132 @@
 <template>
   <div id="kuldetesem" class="section">
-    <div class="bg-orange text-center pt-4">
-      <h2>Küldetésem</h2>
-      <div class="d-flex flex-wrap">
-        <div class="col-12 col-md-8">
-          <div class="px-3 h-100 d-flex flex-column justify-content-around">
-            <div>
-              Szüntelenül az jár az eszemben, s érzés szintjén a lelkemben, hogy
-              hogyan is tudnám motiválni az emberi lelkeket abban, hogy
-              kíváncsiak legyenek, s hogy hogyan is tudnak ráhangolódni saját
-              kincsestáraikra, mely bennük sejlik.
-            </div>
-            <div>Inspirációt szeretnék adni, hogy:</div>
-            <div class="text-gold2">
-              Hogyan is ismerd fel Önmagad, hogy a saját Életed éld!?
-            </div>
-            <div class="text-gold2">
-              Hogyan lehet jobb az emberi kapcsolat-rendszered?
-            </div>
-            <div class="text-gold2">
-              Hogyan lehet tiszteletteljesebb az emberi kommunikációd, s hogyan
-              ne legyél megalkuvó!?
-            </div>
-            <div class="text-gold2">
-              Hogyan haladhatunk az Egység-Tudat felé, a szív útján, a tudatos
-              tudatunkkal karöltve?
-            </div>
-          </div>
-        </div>
-        <div class="col-12 col-md-4">
-          <div class="h-100 d-flex align-items-center justify-content-center">
-            <img
-              src="../assets/img/kuldetes.jpg"
-              style="width: 90%; max-width: 500px"
-            />
-          </div>
+    <div class="bg-orange py-4 px-3">
+      <h1 class="text-center mb-4">Küldetésem</h1>
+
+      <div class="text-center">
+        Szüntelenül az jár az eszemben, s érzés szintjén a lelkemben, hogy
+        hogyan is tudnám motiválni az emberi lelkeket abban, hogy kíváncsiak
+        legyenek, s hogy hogyan is tudnak ráhangolódni saját kincsestáraikra,
+        mely bennük sejlik.
+      </div>
+      <div class="text-center">
+        <h4 class="text-red mt-4 mb-3">Inspirációt szeretnék adni, hogy:</h4>
+        <h6>Hogyan is ismerd fel Önmagad, hogy a saját Életed éld!?</h6>
+        <h6>Hogyan lehet jobb az emberi kapcsolat-rendszered?</h6>
+        <h6>
+          Hogyan lehet tiszteletteljesebb az emberi kommunikációd, s hogyan ne
+          legyél megalkuvó!?
+        </h6>
+        <h6>
+          Hogyan haladhatunk az Egység-Tudat felé, a szív útján, a tudatos
+          tudatunkkal karöltve?
+        </h6>
+
+        <div class="text-center pt-4">
+          <img
+            src="../assets/img/kuldetes.jpg"
+            class="w-75"
+            style="max-width: 400px"
+          />
         </div>
       </div>
     </div>
 
-    <div class="bg-orange">
-      <div class="text-center py-5">
+    <div class="bg-orange px-3">
+      <div class="text-center pt-5">
         <button class="btn-gold">
-          Két út van. Választhatsz, tied a döntés!
+          Két út van. <br />
+          Választhatsz, tied a döntés!
         </button>
       </div>
 
-      <div class="bg-line d-flex flex-column">
-        <div class="offset-2 col-3 pt-5" style="max-width: 200px">
-          <div class="text-center">SZÉLES</div>
-          <list-item text="betegség" :xIcon="true" />
-          <list-item text="félelem, idegesség" :xIcon="true" />
-          <list-item text="önös érdek" :xIcon="true" />
-          <list-item text="harc" :xIcon="true" />
-          <list-item text="degradáció" :xIcon="true" />
+      <div class="d-flex justify-content-center">
+        <div style="width: 250px">
+          <div class="d-flex justify-content-between">
+            <div class="d-none d-sm-block mt-2">
+              <img src="../assets/img/gold-arrow-left.png" width="50" />
+            </div>
+            <div class="d-none d-sm-block mt-2">
+              <img src="../assets/img/gold-arrow-right.png" width="50" />
+            </div>
+          </div>
         </div>
-        <div class="offset-8 col-4" style="max-width: 320px">
-          <div class="text-center">KESKENY</div>
-          <list-item text="Szeretet hírnökei, Szív útja" />
-          <list-item text="Krisztus Tudat Tudók, Igazak" />
-          <list-item text="Tiszta lelkűek" />
-          <list-item text="Ősi erkölcs követői" />
-          <list-item text="Egészség" />
-          <list-item text="Béke – Nyugalom" />
-          <list-item text="Együtt – Egymásért" />
-          <list-item text="Boldogság" />
-          <list-item text="Aranykor felé utazás (mint tudatállapot)" />
+      </div>
+
+      <div class="d-flex flex-wrap">
+        <div class="col-12 offset-sm-1 offset-lg-2 col-sm-4 col-lg-3">
+          <div class="d-flex justify-content-center">
+            <div style="width: 200px">
+              <div class="px-5 mt-4 mb-2">SZÉLES</div>
+              <div class="px-3">No komment...</div>
+              <div class="px-4 py-3">
+                <img src="../assets/img/behajtani-tilos.png" width="80" />
+              </div>
+              <div class="px-5">
+                <i
+                  class="fas fa-arrow-down text-danger"
+                  style="height: 30px !important; width: 30px !important"
+                ></i>
+              </div>
+              <list-item text="Betegség" :xIcon="true" />
+              <list-item text="Félelem, idegesség" :xIcon="true" />
+              <list-item text="Önös érdek" :xIcon="true" />
+              <list-item text="Harc" :xIcon="true" />
+              <div class="px-5">
+                <i
+                  class="fas fa-arrow-down text-danger"
+                  style="height: 30px !important; width: 30px !important"
+                ></i>
+              </div>
+              <list-item text="Degradáció" :xIcon="true" />
+            </div>
+          </div>
+        </div>
+        <div class="col-12 offset-sm-2 offset-md-3 offset-lg-2 col-sm-4">
+          <div class="d-flex justify-content-center">
+            <div style="width: 250px">
+              <div class="px-5 mt-4 mb-2">KESKENY</div>
+              <list-item text="Szeretet hírnökei, Szív útja" />
+              <list-item text="Krisztus Tudat Tudók, Igazak" />
+              <list-item text="Tiszta lelkűek" />
+              <list-item text="Ősi erkölcs követői" />
+              <div class="px-5">
+                <i
+                  class="fas fa-arrow-down text-gold2"
+                  style="height: 30px !important; width: 30px !important"
+                ></i>
+              </div>
+              <list-item text="Egészség" />
+              <list-item text="Béke – Nyugalom" />
+              <list-item text="Együtt – Egymásért" />
+              <list-item text="Boldogság" />
+              <div class="px-5">
+                <i
+                  class="fas fa-arrow-down text-gold2"
+                  style="height: 30px !important; width: 30px !important"
+                ></i>
+              </div>
+              <list-item text="Aranykor felé utazás (mint tudatállapot)" />
+            </div>
+          </div>
         </div>
       </div>
     </div>
 
-    <div class="bg-orange py-5 text-center">
-      <div class="text-gold2 mb-3">Egyszerre két Istent nem szolgálhatsz!</div>
+    <div class="bg-orange py-5 text-center px-3">
+      <h4 class="text-green mb-3">Egyszerre két Istent nem szolgálhatsz!</h4>
+      <div class="d-flex justify-content-center">
+        <div style="width: 250px">
+          <div class="d-flex justify-content-between">
+            <div class="d-none d-sm-block mb-2">
+              <img src="../assets/img/red-arrow-left.png" width="50" />
+            </div>
+            <div class="d-none d-sm-block mb-2">
+              <img src="../assets/img/gold-arrow-right.png" width="50" />
+            </div>
+          </div>
+        </div>
+      </div>
       <div class="d-flex flex-wrap justify-content-around">
         <div
           class="
@@ -103,31 +158,34 @@
           <u>
             <b> Eredeti Forrás </b>
           </u>
-          <div>vissza Önmagadhoz</div>
-          <div>vissza Egységhez</div>
-          <div>vissza Isteni Minőséghez</div>
+          <div>Vissza Önmagadhoz</div>
+          <div>Vissza az Egységhez</div>
+          <div>Vissza az Isteni Minőséghez</div>
         </div>
       </div>
-      <div class="py-2">Teendő:</div>
+      <h4 class="mt-5 pb-3 text-red">Teendő:</h4>
       <div>
         <div class="m-2">
-          <span class="btn-white"> Totális káosz </span>
+          <span class="btn-white" style="font-size: 18px"> Totális káosz </span>
         </div>
-        <div class="py-2">
+        <div class="py-3">
           <i
             class="fas fa-arrow-down text-gold2"
             style="height: 30px !important; width: 30px !important"
           ></i>
         </div>
         <div>
-          <span class="btn-gold"> Eredeti Isteni Rend (Isteni Terv) </span>
+          <button class="btn-gold">
+            Eredeti Isteni Rend <br />(Isteni Terv)
+          </button>
         </div>
       </div>
-      <div class="mt-4">Vagyok, aki vagyok</div>
-      <div>
+      <div class="mt-4" style="font-size: 18px">Vagyok, aki vagyok.</div>
+      <div class="mt-3" style="font-size: 18px">
         Minden időm, energiám, tudásom erre szentelem, segíteni azokat, akik a
-        Lélekfejlődés útján elindultak, vissza az Egy-be. Változtatni szeretnél?
+        Lélekfejlődés útján elindultak, vissza az Egy-be.
       </div>
+      <h4 class="my-3 text-green">Változtatni szeretnél?</h4>
       <div class="text-center mt-3">
         <button class="btn-gold">Gyere velem az utazásra!</button>
       </div>
