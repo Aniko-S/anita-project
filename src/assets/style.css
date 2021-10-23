@@ -54,6 +54,11 @@ h4 {
   background-size: 100% 100%;
 }
 
+.bg-rose {
+  background: url("./img/rose0.3.png");
+  background-size: cover;
+}
+
 .bg-line {
   background: var(--orange) url("./img/arany-vonal.png");
   background-size: 100% 100%;
@@ -157,6 +162,16 @@ h4 {
 
 .italic {
   font-style: italic;
+}
+
+.link {
+  color: black;
+  text-decoration: none;
+  margin-left: 15px;
+}
+
+.link:hover {
+  color: var(--green);
 }
 
 @media screen and (min-width: 992px) {

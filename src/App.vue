@@ -8,6 +8,7 @@
     <bemutatkozas />
     <kuldetesem />
     <szolgaltatasaim />
+    <elerhetoseg />
   </div>
 </template>
 
@@ -20,6 +21,7 @@ import Segitek from "./components/Segitek.vue";
 import Bemutatkozas from "./components/Bemutatkozas.vue";
 import Kuldetesem from "./components/Kuldetesem.vue";
 import Szolgaltatasaim from "./components/Szolgaltatasaim.vue";
+import Elerhetoseg from "./components/Elerhetoseg.vue";
 
 export default {
   name: "App",
@@ -32,6 +34,7 @@ export default {
     Bemutatkozas,
     Kuldetesem,
     Szolgaltatasaim,
+    Elerhetoseg,
   },
 };
 </script>
