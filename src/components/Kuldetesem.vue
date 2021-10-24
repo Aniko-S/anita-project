@@ -56,23 +56,24 @@
       <div class="d-flex flex-wrap">
         <div class="col-12 offset-sm-1 offset-lg-2 col-sm-4 col-lg-3">
           <div class="d-flex justify-content-center">
-            <div style="width: 180px">
-              <div class="mt-4 mb-2" style="padding-left: 47px">SZÉLES</div>
-              <div style="padding-left: 34px">No komment...</div>
-              <div class="py-3" style="padding-left: 39px">
+            <div style="width: 120px">
+              <div class="mt-4 mb-2 text-center">SZÉLES</div>
+              <div class="text-center">No komment...</div>
+              <div class="py-3 text-center">
                 <img src="../assets/img/behajtani-tilos.png" width="80" />
               </div>
-              <div style="padding-left: 62px">
+              <div class="text-center">
                 <i
                   class="fas fa-arrow-down text-danger"
                   style="height: 30px !important; width: 30px !important"
                 ></i>
               </div>
               <list-item text="Betegség" :xIcon="true" />
-              <list-item text="Félelem, idegesség" :xIcon="true" />
+              <list-item text="Félelem" :xIcon="true" />
+              <list-item text="Idegesség" :xIcon="true" />
               <list-item text="Önös érdek" :xIcon="true" />
               <list-item text="Harc" :xIcon="true" />
-              <div style="padding-left: 62px">
+              <div class="text-center">
                 <i
                   class="fas fa-arrow-down text-danger"
                   style="height: 30px !important; width: 30px !important"
@@ -84,13 +85,15 @@
         </div>
         <div class="col-12 offset-sm-2 offset-md-3 offset-lg-2 col-sm-4">
           <div class="d-flex justify-content-center">
-            <div style="width: 250px">
-              <div class="mt-4 mb-2" style="padding-left: 65px">KESKENY</div>
-              <list-item text="Szeretet hírnökei, Szív útja" />
-              <list-item text="Krisztus Tudat Tudók, Igazak" />
+            <div style="width: 180px">
+              <div class="mt-4 mb-2 text-center">KESKENY</div>
+              <list-item text="Szeretet hírnökei" />
+              <list-item text="Szív útja" />
+              <list-item text="Krisztus Tudat Tudók" />
+              <list-item text="Igazak" />
               <list-item text="Tiszta lelkűek" />
               <list-item text="Ősi erkölcs követői" />
-              <div style="padding-left: 88px">
+              <div class="text-center">
                 <i
                   class="fas fa-arrow-down text-gold2"
                   style="height: 30px !important; width: 30px !important"
@@ -100,7 +103,7 @@
               <list-item text="Béke – Nyugalom" />
               <list-item text="Együtt – Egymásért" />
               <list-item text="Boldogság" />
-              <div style="padding-left: 88px">
+              <div class="text-center">
                 <i
                   class="fas fa-arrow-down text-gold2"
                   style="height: 30px !important; width: 30px !important"

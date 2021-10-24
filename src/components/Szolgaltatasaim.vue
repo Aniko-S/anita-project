@@ -93,11 +93,12 @@
         mx-3 mx-md-4 mx-lg-5
         py-4
         my-5
+        p-3
         shadow
         text-center
       "
     >
-      <h4>CSOPORTFOGLALKOZÁSOK, WORK-SHOPOK</h4>
+      <h4 style="word-wrap: break-word">CSOPORTFOGLALKOZÁSOK, WORK-SHOPOK</h4>
       <div>Folyamatosan indulnak majd, kövesd a posztokat!</div>
     </div>
   </div>
