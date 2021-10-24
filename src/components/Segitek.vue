@@ -55,7 +55,7 @@
       </div>
     </div>
     <div class="text-center pt-4">
-      <a href="#szolgaltatasaim">
+      <a href="#szolgaltatasok">
         <button class="btn-gold">
           Megoldás: <br />Eredeti Önvalód megismerése! <br />Visszatalálni az
           Isteni minőséghez!

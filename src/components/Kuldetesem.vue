@@ -56,13 +56,13 @@
       <div class="d-flex flex-wrap">
         <div class="col-12 offset-sm-1 offset-lg-2 col-sm-4 col-lg-3">
           <div class="d-flex justify-content-center">
-            <div style="width: 200px">
-              <div class="px-5 mt-4 mb-2">SZÉLES</div>
-              <div class="px-3">No komment...</div>
-              <div class="px-4 py-3">
+            <div style="width: 180px">
+              <div class="mt-4 mb-2" style="padding-left: 47px">SZÉLES</div>
+              <div style="padding-left: 34px">No komment...</div>
+              <div class="py-3" style="padding-left: 39px">
                 <img src="../assets/img/behajtani-tilos.png" width="80" />
               </div>
-              <div class="px-5">
+              <div style="padding-left: 62px">
                 <i
                   class="fas fa-arrow-down text-danger"
                   style="height: 30px !important; width: 30px !important"
@@ -72,7 +72,7 @@
               <list-item text="Félelem, idegesség" :xIcon="true" />
               <list-item text="Önös érdek" :xIcon="true" />
               <list-item text="Harc" :xIcon="true" />
-              <div class="px-5">
+              <div style="padding-left: 62px">
                 <i
                   class="fas fa-arrow-down text-danger"
                   style="height: 30px !important; width: 30px !important"
@@ -85,12 +85,12 @@
         <div class="col-12 offset-sm-2 offset-md-3 offset-lg-2 col-sm-4">
           <div class="d-flex justify-content-center">
             <div style="width: 250px">
-              <div class="px-5 mt-4 mb-2">KESKENY</div>
+              <div class="mt-4 mb-2" style="padding-left: 65px">KESKENY</div>
               <list-item text="Szeretet hírnökei, Szív útja" />
               <list-item text="Krisztus Tudat Tudók, Igazak" />
               <list-item text="Tiszta lelkűek" />
               <list-item text="Ősi erkölcs követői" />
-              <div class="px-5">
+              <div style="padding-left: 88px">
                 <i
                   class="fas fa-arrow-down text-gold2"
                   style="height: 30px !important; width: 30px !important"
@@ -100,7 +100,7 @@
               <list-item text="Béke – Nyugalom" />
               <list-item text="Együtt – Egymásért" />
               <list-item text="Boldogság" />
-              <div class="px-5">
+              <div style="padding-left: 88px">
                 <i
                   class="fas fa-arrow-down text-gold2"
                   style="height: 30px !important; width: 30px !important"
