@@ -1,6 +1,6 @@
 <template>
   <div id="segitek" class="px-3 section">
-    <h2 class="text-center mb-4">
+    <h2 class="text-center pb-4">
       Miben tudok Neked, mint Csodálatos Lénynek hozzájárulás lenni Életed új
       mederbe tereléséhez?
     </h2>
@@ -54,11 +54,13 @@
         </div>
       </div>
     </div>
-    <div class="text-center mt-4">
-      <button class="btn-gold">
-        Megoldás: <br />Eredeti Önvalód megismerése! <br />Visszatalálni az
-        Isteni minőséghez!
-      </button>
+    <div class="text-center pt-4">
+      <a href="#szolgaltatasaim">
+        <button class="btn-gold">
+          Megoldás: <br />Eredeti Önvalód megismerése! <br />Visszatalálni az
+          Isteni minőséghez!
+        </button>
+      </a>
     </div>
   </div>
 </template>

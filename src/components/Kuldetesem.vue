@@ -1,6 +1,6 @@
 <template>
-  <div id="kuldetesem" class="section">
-    <div class="bg-orange py-4 px-3">
+  <div class="section">
+    <div id="kuldetes" class="bg-orange py-4 px-3">
       <h1 class="text-center mb-4">Küldetésem</h1>
 
       <div class="text-center">
@@ -180,14 +180,16 @@
           </button>
         </div>
       </div>
-      <div class="mt-4" style="font-size: 18px">Vagyok, aki vagyok.</div>
+      <h4 class="mt-5 text-red">Vagyok, aki vagyok.</h4>
       <div class="mt-3" style="font-size: 18px">
         Minden időm, energiám, tudásom erre szentelem, segíteni azokat, akik a
         Lélekfejlődés útján elindultak, vissza az Egy-be.
       </div>
-      <h4 class="my-3 text-green">Változtatni szeretnél?</h4>
+      <h4 class="mt-5 text-green">Változtatni szeretnél?</h4>
       <div class="text-center mt-3">
-        <button class="btn-gold">Gyere velem az utazásra!</button>
+        <a href="#szolgaltatasok">
+          <button class="btn-gold">Gyere velem az utazásra!</button>
+        </a>
       </div>
     </div>
   </div>

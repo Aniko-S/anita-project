@@ -1,6 +1,6 @@
 <template>
-  <div id="elerhetoseg" class="section">
-    <div class="bg-rose py-4 px-3">
+  <div class="section">
+    <div id="elerhetoseg" class="bg-rose py-4 px-3">
       <h1 class="text-center mb-4">Elérhetőségeim</h1>
       <div class="d-flex justify-content-center">
         <div class="w-auto">
@@ -34,6 +34,5 @@
         </div>
       </div>
     </div>
-    <!-- <img src="../assets/img/rose.jpg" class="w-100" style="opacity: 0.2" /> -->
   </div>
 </template>

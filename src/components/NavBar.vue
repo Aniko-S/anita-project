@@ -18,20 +18,17 @@
           <li class="nav-item">
             <a class="nav-link" href="#motivacio">Motiváció</a>
           </li>
-          <!-- <li class="nav-item">
-            <a class="nav-link" href="#segitek">Miben tudok segíteni?</a>
-          </li> -->
           <li class="nav-item">
             <a class="nav-link" href="#bemutatkozas">Bemutatkozás</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#kuldetesem">Küldetésem</a>
+            <a class="nav-link" href="#kuldetes">Küldetésem</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#szolgaltatasaim">Szolgáltatásaim</a>
+            <a class="nav-link" href="#szolgaltatasok">Szolgáltatásaim</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#elerhetoseg">Elérhetőség</a>
+            <a class="nav-link" href="#elerhetoseg">Elérhetőségeim</a>
           </li>
         </ul>
       </div>

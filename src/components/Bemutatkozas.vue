@@ -1,6 +1,7 @@
 <template>
-  <div id="bemutatkozas" class="section">
+  <div class="section">
     <div
+      id="bemutatkozas"
       class="introduce rounded-card mx-3 mx-md-4 mx-lg-5 py-4 shadow"
       style="overflow: hidden"
     >
@@ -110,39 +111,48 @@
           />
         </div>
         <div>
-          <div class="text-dark-green">Munkám során:</div>
+          <div class="text-dark-green pt-3">Munkám során:</div>
           <list-item text="Sok előadást tartottam." />
           <list-item text="Rengeteg kezelést végeztem." />
         </div>
         <div>
-          <div class="text-dark-green">Mostani küldetésemben:</div>
+          <div class="text-dark-green pt-3">Mostani küldetésemben:</div>
           <div>
             Egyéni életvezetéseket, oldásokat, áthangolásokat végzek, mert erre
             van óriási igény, szinte szomjazzák a lelkek.
           </div>
         </div>
-        <div class="italic my-2 btn-gold">
+        <div class="italic my-4 btn-gold">
           „Játszani jöttél, játssz! Ne vesztegesd az időd! Minden percnek érezd
           az ízét, zamatát, illatát! Élj, szárnyalj, tapasztalj az Isteni Morál
           szerint!”
         </div>
-        <p>
-          <span class="text-red">Isten Társteremtője vagy! </span>
-          <span>Válj méltóvá erre! </span>
-        </p>
-        <p>
-          <span> Ha kíváncsi vagy a </span>
-          <button class="btn-gold p-1" style="font-size: 16px">
-            „HOGYAN?”
-          </button>
-          <span>
-            -ra, akkor én pedig kíváncsi vagyok a Te csodálatos Teremtő
-            Képességedre!
-          </span>
-        </p>
-        <div>
-          Mit is teremthetünk mi együtt? Szeretettel várlak egyéni
-          Lélekhangolásaimon!
+        <div class="text-center mb-3">
+          <div class="text-red" style="font-size: 20px">
+            Isten Társteremtője vagy!
+          </div>
+          <div>Válj méltóvá erre!</div>
+        </div>
+
+        <div class="text-center mb-3">
+          <div>
+            <span> Ha kíváncsi vagy a </span>
+            <a href="#szolgaltatasok">
+              <button class="btn-gold p-1" style="font-size: 16px">
+                „HOGYAN?”
+              </button>
+            </a>
+            <span>
+              -ra, akkor én pedig kíváncsi vagyok a Te csodálatos Teremtő
+              Képességedre!
+            </span>
+          </div>
+          <div class="text-dark-green py-3" style="font-size: 18px">
+            Mit is teremthetünk mi együtt?
+          </div>
+          <h5 class="text-red">
+            Szeretettel várlak egyéni Lélekhangolásaimon!
+          </h5>
         </div>
       </div>
     </div>

@@ -23,10 +23,10 @@
         px-3
       "
     >
-      <h3 class="my-2 text-gold">
+      <h2 class="my-2 text-gold">
         Gyere velem, hogy átvezesselek az Aranykori Tudatosságba!
-      </h3>
-      <div class="my-2 text-gold">
+      </h2>
+      <div class="my-2 text-gold" style="font-size: 18px">
         Az „Aranykori Lélekhangoló” módszerével áthangoljuk egész lényed, hogy
         más színben lásd a tényleges valóságot, s abban tudd a helyed, s a
         vállalt feladatod! Lelked szent terét kell ehhez megtisztítani,
@@ -34,13 +34,15 @@
         fájdalom, s bántódás érte), s egy magasabb tudatosság felé elindulni,
         mely által ÁTTRANSZFORMÁLHATOD Életed!
       </div>
-      <div class="my-2 text-gold">Szeretnéd ezt megtapasztalni?</div>
-      <h4 class="my-2 text-gold">A DÖNTÉS és VÁLASZTÁS joga rajtad áll!</h4>
-      <h6 class="my-2 text-gold">Életed új startvonalához állhatsz!</h6>
-      <div class="my-2 text-gold">Kérdés Önmagadhoz:</div>
-      <div class="my-2 text-gold">
-        Újrateremtés (restruktuáció) vagy süllyedés (degradáció)?
+      <div class="my-2 text-gold" style="font-size: 20px">
+        Szeretnéd ezt megtapasztalni?
       </div>
+      <h4 class="my-2 text-gold">A DÖNTÉS és VÁLASZTÁS joga rajtad áll!</h4>
+      <h5 class="my-2 text-gold">Életed új startvonalához állhatsz!</h5>
+      <div class="my-2 text-gold">Kérdés Önmagadhoz:</div>
+      <h5 class="my-2 text-gold">
+        Újrateremtés (restruktuáció) vagy süllyedés (degradáció)?
+      </h5>
     </div>
   </div>
 </template>
