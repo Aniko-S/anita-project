@@ -1,5 +1,9 @@
 <template>
-  <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
+  <b-nav
+    class="navbar navbar-expand-lg navbar-dark fixed-top"
+    id="mainNav"
+    v-b-scrollspy="100"
+  >
     <div class="container">
       <a class="navbar-brand text-gold" href="#kezdolap"> Lélekinspirátor </a>
       <button
@@ -15,23 +19,13 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
-          <li class="nav-item">
-            <a class="nav-link" href="#motivacio">Motiváció</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#bemutatkozas">Bemutatkozás</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#kuldetes">Küldetésem</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#szolgaltatasok">Szolgáltatásaim</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#elerhetoseg">Elérhetőségeim</a>
-          </li>
+          <b-nav-item href="#motivacio">Motiváció</b-nav-item>
+          <b-nav-item href="#bemutatkozas">Bemutatkozás</b-nav-item>
+          <b-nav-item href="#kuldetes">Küldetésem</b-nav-item>
+          <b-nav-item href="#szolgaltatasok">Szolgáltatásaim</b-nav-item>
+          <b-nav-item href="#elerhetoseg">Elérhetőségeim</b-nav-item>
         </ul>
       </div>
     </div>
-  </nav>
+  </b-nav>
 </template>

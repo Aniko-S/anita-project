@@ -12,8 +12,6 @@
   </div>
 </template>
 
-<script src="js/scripts.js"></script>
-
 <script>
 import NavBar from "./components/NavBar.vue";
 import Kezdolap from "./components/Kezdolap.vue";
