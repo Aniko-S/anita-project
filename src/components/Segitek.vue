@@ -4,7 +4,7 @@
       Miben tudok Neked, mint Csodálatos Lénynek hozzájárulás lenni Életed új
       mederbe tereléséhez?
     </h2>
-    <h5 class="text-center my-4">
+    <h5 class="text-center mt-4 mb-5">
       Komplex, saját egyénileg feldolgozott módszerem alapján hazavezetlek
       Önmagadhoz, sebesült lelked kigyógyul, meggyógyul az alábbi sebesülés
       mintákból:
@@ -54,7 +54,7 @@
         </div>
       </div>
     </div>
-    <div class="text-center pt-4">
+    <div class="text-center pt-5">
       <a href="#szolgaltatasok">
         <button class="btn-gold">
           Megoldás: <br />Eredeti Önvalód megismerése! <br />Visszatalálni az
