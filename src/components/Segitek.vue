@@ -24,7 +24,7 @@
       <div class="col-12 col-md-7 col-lg-12 px-3">
         <div class="d-flex flex-row flex-wrap">
           <div class="col-12 col-lg-4">
-            <div class="d-flex flex-column justify-content-around h-100">
+            <div class="d-flex flex-column justify-content-between h-100">
               <list-item
                 text="Elakadások, megrekedések, életcsomók vannak bizonyos
                   életterületeden?"
@@ -36,11 +36,18 @@
               <list-item text="Elváltál, s nem tudod, hogyan tovább?" />
             </div>
           </div>
-          <div class="col-12 col-lg-4 text-center d-md-none d-lg-block">
+          <div
+            class="
+              col-12 col-lg-4
+              text-center
+              d-md-none d-lg-block
+              my-3 my-md-1
+            "
+          >
             <img src="../assets/img/parkapcsolat.jpg" class="w-75" />
           </div>
           <div class="col-12 col-lg-4">
-            <div class="d-flex flex-column justify-content-around h-100">
+            <div class="d-flex flex-column justify-content-between h-100">
               <list-item text="Önértékelési problémád van?" />
               <list-item text="Tele vagy félelemérzettel?" />
               <list-item text="Depressziós, elkeseredett, lehangolt vagy?" />
