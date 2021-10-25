@@ -6,11 +6,16 @@
       <div
         class="bg-colorful rounded-card mx-3 mx-md-4 mx-lg-5 py-2 mt-3 shadow"
       >
-        <h4 class="mx-3 mt-3 text-dark-green">Testi szinten:</h4>
+        <h4
+          class="mx-3 mt-3 text-dark-green"
+          style="text-decoration: underline"
+        >
+          Testi szinten:
+        </h4>
         <div class="d-flex flex-wrap">
           <div class="col-12 col-md-6 p-3">
             <div class="h-100 d-flex flex-column justify-content-between">
-              <div>
+              <div class="text-red">
                 1. „Test-térkép” készítés EWS bioinformatikai felmérő
                 készülékkel
               </div>
@@ -21,7 +26,9 @@
           </div>
           <div class="col-12 col-md-6 p-3">
             <div class="h-100 d-flex flex-column justify-content-between">
-              <div>2. „Egészség-kép” harmonizáció BEMER készülékkel</div>
+              <div class="text-red">
+                2. „Egészség-kép” harmonizáció BEMER készülékkel
+              </div>
               <div class="text-center pt-3" style="width: 95%">
                 <img src="../assets/img/bemer.jpg" class="w-100" />
               </div>
@@ -32,7 +39,12 @@
       <div
         class="bg-colorful mx-3 mx-md-4 mx-lg-5 py-2 mt-3 rounded-card shadow"
       >
-        <h4 class="mx-3 mt-3 text-dark-green">Lelki-szellemi síkon:</h4>
+        <h4
+          class="mx-3 mt-3 text-dark-green"
+          style="text-decoration: underline"
+        >
+          Lelki-szellemi síkon:
+        </h4>
         <div class="p-3">
           <list-item
             text="Lelki problémák oki felderítése, oldása, átkódolása."

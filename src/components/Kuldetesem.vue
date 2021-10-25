@@ -33,7 +33,7 @@
     </div>
 
     <div class="bg-orange px-3">
-      <div class="text-center pt-5">
+      <div class="text-center pt-5 mb-3">
         <button class="btn-gold">
           Két út van. <br />
           Választhatsz, tied a döntés!
@@ -53,11 +53,29 @@
         </div>
       </div>
 
-      <div class="d-flex flex-wrap">
-        <div class="col-12 offset-sm-1 offset-lg-2 col-sm-4 col-lg-3">
-          <div class="d-flex justify-content-center">
-            <div style="width: 120px">
-              <div class="mt-4 mb-2 text-center">SZÉLES</div>
+      <div class="d-flex flex-wrap justify-content-around">
+        <div
+          class="
+            col-11 col-sm-5 col-lg-4 col-xl-3
+            bg-white
+            rounded-card
+            shadow
+            p-3
+            my-3
+          "
+          style="max-width: 290px"
+        >
+          <div class="d-flex justify-content-center h-100">
+            <div
+              style="width: 120px"
+              class="d-flex flex-column justify-content-between"
+            >
+              <div
+                class="mb-2 text-center text-green"
+                style="text-decoration: underline"
+              >
+                SZÉLES
+              </div>
               <div class="text-center">No komment...</div>
               <div class="py-3 text-center">
                 <img src="../assets/img/behajtani-tilos.png" width="80" />
@@ -83,10 +101,26 @@
             </div>
           </div>
         </div>
-        <div class="col-12 offset-sm-2 offset-md-3 offset-lg-2 col-sm-4">
+
+        <div
+          class="
+            col-11 col-sm-5 col-lg-4 col-xl-3
+            bg-white
+            rounded-card
+            shadow
+            p-3
+            my-3
+          "
+          style="max-width: 290px"
+        >
           <div class="d-flex justify-content-center">
             <div style="width: 180px">
-              <div class="mt-4 mb-2 text-center">KESKENY</div>
+              <div
+                class="mb-2 text-center text-green"
+                style="text-decoration: underline"
+              >
+                KESKENY
+              </div>
               <list-item text="Szeretet hírnökei" />
               <list-item text="Szív útja" />
               <list-item text="Krisztus Tudat Tudók" />
@@ -117,12 +151,14 @@
     </div>
 
     <div class="bg-orange py-5 text-center px-3">
-      <h4 class="text-green mb-3">Egyszerre két Istent nem szolgálhatsz!</h4>
+      <h4 class="text-green mb-3 mt-4">
+        Egyszerre két Istent nem szolgálhatsz!
+      </h4>
       <div class="d-flex justify-content-center">
         <div style="width: 250px">
           <div class="d-flex justify-content-between">
             <div class="d-none d-sm-block mb-2">
-              <img src="../assets/img/red-arrow-left.png" width="50" />
+              <img src="../assets/img/gold-arrow-left.png" width="50" />
             </div>
             <div class="d-none d-sm-block mb-2">
               <img src="../assets/img/gold-arrow-right.png" width="50" />
@@ -141,10 +177,14 @@
             p-3
             my-2
           "
+          style="max-width: 290px"
         >
-          <u>
-            <b> Mammon </b>
-          </u>
+          <div
+            class="mb-2 text-center text-green"
+            style="text-decoration: underline"
+          >
+            Mammon
+          </div>
           <div>Pillanatnyi jólét más kárán</div>
         </div>
         <div
@@ -157,10 +197,14 @@
             p-3
             my-2
           "
+          style="max-width: 290px"
         >
-          <u>
-            <b> Eredeti Forrás </b>
-          </u>
+          <div
+            class="mb-2 text-center text-green"
+            style="text-decoration: underline"
+          >
+            Eredeti Forrás
+          </div>
           <div>Vissza Önmagadhoz</div>
           <div>Vissza az Egységhez</div>
           <div>Vissza az Isteni Minőséghez</div>
