@@ -1,6 +1,6 @@
 <template>
   <b-nav
-    class="navbar navbar-expand-lg navbar-dark fixed-top"
+    class="navbar navbar-expand-xl navbar-dark fixed-top"
     id="mainNav"
     v-b-scrollspy="100"
   >
@@ -24,6 +24,7 @@
           <b-nav-item href="#kuldetes">Küldetésem</b-nav-item>
           <b-nav-item href="#szolgaltatasok">Szolgáltatásaim</b-nav-item>
           <b-nav-item href="#elerhetoseg">Elérhetőségeim</b-nav-item>
+          <b-nav-item href="/blog">Blog</b-nav-item>
         </ul>
       </div>
     </div>

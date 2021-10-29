@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Sofia&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Sofia&display=swap");
 
 :root {
   --gold: #d4af37;
@@ -11,7 +11,7 @@
 }
 
 h1 {
-  font-family: 'Sofia' !important;
+  font-family: "Sofia" !important;
   font-style: italic;
   color: var(--green);
 }
@@ -28,7 +28,6 @@ h4 {
   margin-top: 60px;
 }
 
-
 .bg-orange {
   background-color: var(--orange);
 }
@@ -41,7 +40,8 @@ h4 {
     #e1ad21,
     #daa520,
     #cca01d,
-    #b78727);
+    #b78727
+  );
 }
 
 .bg-colorful {
@@ -82,7 +82,8 @@ h4 {
     #e1ad21,
     #daa520,
     #cca01d,
-    #b78727);
+    #b78727
+  );
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   font-weight: bold;
@@ -95,21 +96,23 @@ h4 {
 }
 
 .text-gold {
-  background: -webkit-linear-gradient(#b78727,
-            #cca01d,
-            #daa520,
-            #e1ad21,
-            #fcc200,
-            #ffcc33,
-            #ffdf00,
-            #ffcc33,
-            #fcc200,
-            #e1ad21,
-            #daa520,
-            #cca01d,
-            #b78727);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+  background: -webkit-linear-gradient(
+    #b78727,
+    #cca01d,
+    #daa520,
+    #e1ad21,
+    #fcc200,
+    #ffcc33,
+    #ffdf00,
+    #ffcc33,
+    #fcc200,
+    #e1ad21,
+    #daa520,
+    #cca01d,
+    #b78727
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .btn-gold {
@@ -120,7 +123,8 @@ h4 {
     #e1ad21,
     #daa520,
     #cca01d,
-    #b78727);
+    #b78727
+  );
   padding: 10px 20px;
   border: none;
   border-radius: 5px;
@@ -144,7 +148,8 @@ h4 {
   border-radius: 14px;
 }
 
-.textOverImg, .img-title {
+.textOverImg,
+.img-title {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -219,7 +224,6 @@ h4 {
   }
 }
 
-
 @media screen and (min-width: 1200px) {
   .main-title {
     font-size: 90px;
@@ -238,7 +242,7 @@ h4 {
   .main-title {
     font-size: 65px;
   }
-  
+
   .main-img-text {
     font-size: 22px;
   }
@@ -247,7 +251,6 @@ h4 {
     font-size: 40px;
   }
 }
-
 
 @media screen and (min-width: 768px) and (max-width: 991px) {
   .main-img-text {
@@ -263,8 +266,7 @@ h4 {
   }
 }
 
-
-@media screen  and (min-width: 576px) and (max-width: 767px) {
+@media screen and (min-width: 576px) and (max-width: 767px) {
   .main-title {
     font-size: 70px;
   }
@@ -274,10 +276,9 @@ h4 {
   }
 
   .main-img-text {
-    font-size: 20px
+    font-size: 20px;
   }
 }
-
 
 @media screen and (min-width: 480px) and (max-width: 575px) {
   .main-title {
@@ -293,7 +294,6 @@ h4 {
   }
 }
 
-
 @media screen and (min-width: 380px) and (max-width: 479px) {
   .main-title {
     font-size: 40px;
@@ -308,7 +308,6 @@ h4 {
   }
 }
 
-
 @media screen and (min-width: 330px) and (max-width: 379px) {
   .main-title {
     font-size: 30px;
@@ -319,10 +318,9 @@ h4 {
   }
 
   .main-img-text {
-    font-size: 14px
-  } 
+    font-size: 14px;
+  }
 }
-
 
 @media screen and (max-width: 330px) {
   .main-title {
@@ -335,9 +333,8 @@ h4 {
 
   .main-img-text {
     font-size: 14px;
-  } 
+  }
 }
-
 
 @media screen and (min-width: 380px) {
   h1:not(.main-title) {
@@ -351,7 +348,6 @@ h4 {
   }
 }
 
-
 .aranykozi-tudatossag {
   position: relative;
 }
@@ -363,17 +359,32 @@ h4 {
     position: static;
     padding: 30px;
   }
-  
+
   .textOverImg {
     position: static;
     transform: none;
   }
 
-  .bg-md, .bg-lg {
+  .bg-md,
+  .bg-lg {
     display: none;
   }
 }
 
+.blog-card {
+  border: 1px solid grey;
+  border-radius: 40px;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0px;
+  overflow: hidden;
+  margin: auto;
+}
+
+.blog-card-text {
+  overflow: hidden;
+  white-space: nowrap;
+}
 
 .introduce {
   background: url("./img/levelek0.2.png");
@@ -422,7 +433,7 @@ h4 {
     grid-row-start: 1;
     grid-row-end: 3;
   }
-  
+
   .grid-item-studies {
     grid-column-start: 1;
     grid-column-end: 3;
@@ -444,7 +455,7 @@ h4 {
   /* .introduce {
     background: none;
   }  */
-/* 
+  /* 
   .title-big {
     display: none;
   }
@@ -482,13 +493,12 @@ h4 {
 }
 
 @media screen and (max-width: 576px) {
-
   .grid-item-img {
     grid-column-start: 1;
     grid-column-end: 3;
     grid-row-start: 2;
     grid-row-end: 3;
-    margin:auto;
+    margin: auto;
     max-width: 300px;
   }
 
@@ -498,7 +508,7 @@ h4 {
     grid-row-start: 1;
     grid-row-end: 2;
   }
-  
+
   .grid-item-studies {
     grid-column-start: 1;
     grid-column-end: 3;
