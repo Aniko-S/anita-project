@@ -4,7 +4,7 @@ import { BootstrapVue, NavbarPlugin, VBScrollspyPlugin } from "bootstrap-vue";
 import VueRouter from "vue-router";
 import Fooldal from "./components/Fooldal";
 import Blog from "./components/Blog";
-import BlogDetails2 from "./components/BlogDetails2";
+import BlogDetails3 from "./components/BlogDetails3";
 
 Vue.config.productionTip = false;
 Vue.use(BootstrapVue);
@@ -23,7 +23,7 @@ const routes = [
   },
   {
     path: "/blog/:id",
-    component: BlogDetails2,
+    component: BlogDetails3,
   },
 ];
 

@@ -386,6 +386,21 @@ h4 {
   white-space: nowrap;
 }
 
+.blog-card-big {
+  background-color: var(--orange);
+  border: 1px solid var(--orange);
+  border-radius: 40px;
+  overflow: hidden;
+}
+
+.blog-card-big .title {
+  color: var(--green);
+}
+
+.p {
+  margin-bottom: 16px;
+}
+
 .introduce {
   background: url("./img/levelek0.2.png");
   background-size: 100% auto;
