@@ -379,7 +379,7 @@
     </div>
   </div> -->
 
-  <div class="d-flex justify-content-center" style="margin-top: 100px">
+  <!-- <div class="d-flex justify-content-center" style="margin-top: 100px">
     <div class="blog-card-big col-11 col-lg-10 col-xl-8 p-4">
       <h2 class="title text-center py-3">
         JŐVŐTEREMTÉS MŰVÉSZETE A TE KEZEDBEN!
@@ -470,6 +470,490 @@
         </div>
         <div>Szeretettel írva ébresztő soraim Nektek:</div>
       </div>
+    </div>
+  </div> -->
+
+  <!-- <div class="d-flex justify-content-center" style="margin-top: 100px">
+    <div class="blog-card-big col-11 col-lg-10 col-xl-8 p-4">
+      <h2 class="title text-center py-3">
+        FELBUKKANT EGY ÚJABB JELENSÉG: A ” HASZNÁLATI NŐK” FOGALMA!
+      </h2>
+      <div class="p">
+        Titokban tartott, leplezett kapcsolatok, pusztán a pillanatnyi pár órás
+        örömökért,a nem felvállalás tükrében. Illúziókeltés a javából, saját
+        magatok illuzionistái vagytok! Eljátszotok benne valamit, ami nem igaz,
+        hamis, ál. De ti beleképzelitek magatokat, mintha….Álérzések, hamiskás
+        képzelgések, ámítások. Ez ma általánosan jelenség, naponta hallható
+        ezzel kapcsolatos sztori, történet, éveken át tartó látszólagos
+        kapcsolat megalázó minőségben. Igen, ide alacsonyodott le társadalmunk.
+        A nők megcsúfolása önmaguk beleegyezése által, a női nem letiprása,
+        megszentségtelenítése, állatias aspektusok felébresztése által, a
+        szeretet törvényének szigorú megsértésével. Önként és dalolva mennek
+        bele a mai nők ebbe a tudatlanság hálójában fennakadva.
+      </div>
+      <div class="p">
+        <div class="text-green">HASZNÁLATBA ADJÁK TESTÜKET!</div>
+        <div>
+          Mintha ki lehetne kölcsönözni a kölcsönzőből egy testet, egy árut,
+          mert ma épp arra van szükségem, és ennyi. Minden további
+          <span class="text-red">FELELŐSSÉGVÁLLALÁS NÉLKÜL!!!</span> És ez a
+          lényeg, semmiért sem kell felelősséget vállalni, csak eljátszadozni,
+          és azután mindenki szalad tovább, mint aki dolgát jól végezte. Még az
+          állatoknak is van ösztönös érzésük, szeretetük!!! Ez még az állati sor
+          alá taszíttatja a női nem egy részét, akik ebben partnerei a macsót
+          eljátszó hím egyedeknek. Biorobottá váló tárgyiasult eszköz csupán,
+          aki mechanikus tevékenységet végez, olyan, mintha akár fogat mosna,
+          ami a napi rutinos teendők része. Elcsökevényesedett, elkorcsosult, a
+          Forrás energiájától nagyon eltávolodott balga világ ez,
+          elértéktelenedett szereplői gárdával. Univerzum szégyene, de önként
+          választottátok!
+        </div>
+      </div>
+      <div class="p">
+        <div class="text-green">
+          MI IS KÉNYSZERÍTI AZ EMBERT ERRE, HOGY ÍGY ELGÉPIESEDJEN ÉS TELJESEN
+          ÉRZELEMMENTESSÉ VÁLJON?
+        </div>
+
+        <ul>
+          <li>
+            Média sugallata: szingli létre nevelés! Ez ma már egy tudatos
+            projekt része.
+          </li>
+          <li>
+            Ha nem vagy megfelelő tudatszinten: bedőlsz ennek a játéknak, és
+            elhiszed az instant kapcsolódás divatját, és beállsz a sorba.
+          </li>
+          <li>Alacsony önértékelésed, értékrend nélküliséged.</li>
+          <li>Elfáradt a lelked, és örülsz, ha van egyáltalán valaki.</li>
+          <li>
+            Eltűnt női büszkeség, ma már bármit meg lehet tenni egyesekkel, akik
+            ezt hagyják.
+          </li>
+          <li>
+            Eltűnt női harcosság, bátorság kiállni magadért, csak hagyni, a hím
+            úgy használjon, ahogy akar !
+          </li>
+          <li>Letűnt igazságérzet, már minden mindegy szindróma.</li>
+          <li>
+            Önként felkínálkozó nők, akik szinte rájuk erőltetik magukat a
+            kiszemelt, vagy éppen arra tévelygő hímeknek… TÁLCÁN felkínálva
+            magukat!!!
+          </li>
+          <li>
+            Belemenni olyan reménytelen és esélytelen kapcsolódásba, ami már az
+            elején halálra van ítélve, és tovább erőltetni, ezáltal nevetségessé
+            tenni magad saját magad előtt is!
+          </li>
+          <li>
+            Mérhetetlen félelem az egyedülléttől, mely önnön magad nem
+            elfogadásából gyökeredzik.
+          </li>
+        </ul>
+      </div>
+      <div class="p">
+        <div class="text-green">
+          Férfit bármi áron is!!! Ez mai társadalmunk mozgatórugója és szégyene.
+        </div>
+        <div>
+          A legnagyobb problémának a kétségbeesett keresést látom nő társaimon,
+          akik megkeresnek a tanácsadásaimon, és ezért inkább belemenekülnek egy
+          mondva csinált kapcsolódásba, mások pedig azok sorozatába, és a
+          folyamat öngerjesztő. Inkább vállalják a megaláztatottságot, mint sem
+          kiállni önmagukért, egészséges önbecsülésükért, az
+          <span class="text-red">IGAZI NŐ</span>-ért! Így az Igazi nő,
+          <span class="text-red">VALÓDI NŐ</span>f ogalma, mint olyan, feledésbe
+          merült. Akik még vannak néhányan, ők szinte láthatatlanok a mai férfi
+          számára - akit szinte nem nevezhetünk férfinak, mert már más szerepbe
+          bújt -, mert ők nem a valódi női minőséget keresik, hiszen nem tudnak
+          mit kezdeni vele, ezért csak használják a testüket odadobó nőket. Így
+          a hím hatalma teljében érzi magát, begyűjti áldozatait, és ez neki
+          maga a kánaán. Nincs oka ezen változtatni, hiszen bármely percben kap
+          újat, újabb jelentkezőt, és ilyen formán a variabilitás is biztosítva
+          van, sőt még ételt, italt, szállást is kap érzelemmentes táptalajon.
+          Nincs értéke az embernek, bárki bármikor bárkivel pótolható! Persze a
+          nő néha beleesik a csapdába,.. hogy beleszeret a macsóba, aki
+          nárcisztikus lévén ezzel mit sem törődik, hiszen számára csak az a
+          cél, hogy időszakosan, ahol épp van, jól érezze magát, s töltődjön.
+        </div>
+      </div>
+
+      <div class="p text-center">
+        <img
+          src="../assets/img/blog/hasznalati_nok.jpg"
+          class="w-100"
+          style="max-width: 600px"
+        />
+      </div>
+
+      <div class="p">
+        <div class="text-green">
+          Néhány extrém eset a tanácsadásaim során hozzám járóktól:
+        </div>
+        <ul>
+          <li class="py-1">
+            Csinos, gyönyörű nő elfogadja az örökös szeretői minőséget, úgy hogy
+            neki kell elbiciklizgetnie az “igazi férfihez”, ott nem alhat, meg
+            sem kínálják soha semmivel, és egyéb programot pedig nem szabad
+            beiktatni, mert a férfi kijelentette, nem megy el vele sehová. Mind
+            ennek ellenére a nőben ég az őrült vágy, és minden nap ő telefonál
+            rá, hogy mikor mehet végre. Ez 5 évig ment, és a férfi ezt elunta,
+            azt mondta, ennyi volt, és passz, s másnap már egy hölgy költözött
+            hozzá. Hát, kedves nő társaim, el lehet jutni idáig is, de ez a
+            legalja. A tanácsaimat kikérte magának, ”hogy hogy képzelem én, mert
+            neki kell ez az energia!!!“, szó szerint, ez így elhangzott, és
+            akkor sem fogja a kapcsolatot megszakítan! Hát, tessék, lehet
+            folytatni! Ilyen minőségű nő egy komoly férfinak, nyilván komolyan
+            nem is kellhet. Ha nem veszitek észre, hogy nem ti vagytok az igazi,
+            a kedves, a drága a másik félnek, felesleges a végletekig történő
+            makacs, de buta ragaszkodás, nem vezet sehová, csupán a lelked
+            kiégéséhez!
+          </li>
+          <li class="py-1">
+            58 éves szintén reprezentatív nő szakítás után úgy elkeseredett,
+            hogy felment egy 78 éves, számára ismeretlen férfi lakására első
+            hívásra, és mivel ott főztek neki, ezért azonnal beadta a derekát.
+            Nem tetszett neki a férfi egyáltalán, csupán kedvességre vágyott,
+            ezért a testével fizetett, tehát használatba dobta be magát. Kb ez
+            5x megismétlődött, és miután végül is barátnői segítséggel rájött,
+            hogy ez így a vicc kategóriáját meríti ki, többet nem találkozott a
+            férfivel. De továbbra is úgy ismerkedik, hogy bárki, aki az utcán
+            megszólítja, akár külföldi is, azonnal randevú. Meddig süllyedhet
+            még az emberiség, s a legszomorúbb, hogy ezt nem látják, ők ezt a
+            viselkedést természetesnek veszik.
+            <span class="text-red">A szeretet koldusai!!!</span> Számtalan
+            hasonló példa az életből, csak ezt nevén kellene nevezni talán, s
+            felnyitni a szemeket. Ez csak rosszabb lesz, ha így folytatódik, s
+            egyik látja a példát a másiktól, és belenyugszanak, hogy ez van
+            most, ilyenek a férfiak. Kedves hölgy társaim ! A nők tették ilyenné
+            őket a nagy szabadossággal, mindent megengedéssel.
+          </li>
+        </ul>
+      </div>
+
+      <div class="p text-red text-center">
+        <div>Hol vagytok, Ti Igazi Nők, akik tovább viszik a szakralitást?</div>
+        <div>Miért nem meritek erőtöket demonstrálni kifelé?</div>
+        <div>
+          Mi lenne, ha fel mernétek vállalni, kik is vagytok valójában, s el is
+          ismernétek nagyszerűségeteket?
+        </div>
+        <div>Nektek kellene emelni a férfiakat, hogy együtt fejlődjünk!</div>
+        <div>
+          Mi történne, ha egymás csodálatosságát felismernétek és elismernétek?
+        </div>
+        <div>HOZZÁTOK VISSZA AZ IGAZI NŐI SZEREPEKET!</div>
+      </div>
+      <div class="p">
+        <div class="text-green">FELISMERITEK E AZ ISTENNŐI ASPEKTUSOTOKAT?</div>
+        <div>
+          Ez a nemes feladat vár rátok, átnemesíteni mostani megalkuvói
+          mivoltotokat az
+          <span class="text-red">EREDENDŐ NŐI MINŐSÉGGÉ!!!</span> Nincs más
+          választásod, és akkor a férfi is másként reagál, a nyuszi pedig
+          elillan…. Ha segítettem neked valamiben, és úgy érzed közben beléd
+          szúrtak egy kést, az a <span class="text-red">Te késed</span> a Te
+          húsodba, ….s az operáció az <span class="text-red">rád vár</span>!
+          Szeretettel ébresztettelek ma is, tudod a lágy simogatással nem
+          megyünk semmire. Fedezd fel tehát azt a csodás nőt, aki benned van, s
+          akinek van tartása, hogy a férfi felnézhessen rá, és tisztelhesse!
+        </div>
+      </div>
+      <div class="p">
+        Utóirat: De annak a férfinak valóban belülről is férfinak kell lennie,
+        nem csak kívülről kell mutatni!
+      </div>
+      <div>Szeretettel írva ébresztő soraim Nektek:</div>
+    </div>
+  </div> -->
+
+  <!-- <div class="d-flex justify-content-center" style="margin-top: 100px">
+    <div class="blog-card-big col-11 col-lg-10 col-xl-8 p-4">
+      <h2 class="title text-center py-3">
+        AZ VAGY, AMIT BEENGEDSZ A TUDATODBA!
+      </h2>
+      <div class="p">
+        <div class="text-green">Te mit engedsz be a tudatodba?</div>
+        <div>
+          Felülvizsgáltad már ezt a kérdést? Jó lenne foglalkozni vele,
+          megérteni, miért is fontos ez. Beérkezik rengeteg információ, mely ott
+          van a térben, automatikusan elér téged is, hiszen minden áramlásban
+          van. Csupán az a kérdés, kontrollálatlanul beengeded-e, vagy van egy
+          egészséges szűrőd, melyet úgy hívnak, hogy:
+          <span class="text-red">Józan paraszti ész</span>, és reá hagyatkozol.
+          Ha maradéktalanul mindent megeszel, mert tolják feléd, akkor hol van
+          az emberi gondolkodásod, hol van a szelektáló képességed?
+        </div>
+      </div>
+      <div class="p text-center">
+        <img
+          src="../assets/img/blog/beengedsz_tudatodba.jpg"
+          class="w-100"
+          style="max-width: 600px"
+        />
+      </div>
+      <div class="text-green">
+        Néhány példával jövök, hogy értsd, hogy miről beszélek:
+      </div>
+      <ul>
+        <li class="py-1">
+          Az emberi életkor: max 120 év, és pont. Ki mondja, kinek, és miért?
+          Tudjuk, hogy léteznek ezen életkort meghaladók, tehát már a nézet
+          megdőlt. Ha elhiszed, erre kondícionálod az elmédet, és úgy is lesz...
+          Persze, mondhatjuk, sokan örülnének ennek is, de ki hívja be a
+          betegségeket? Önmagától semmi nem lesz, mindennek oka van.
+        </li>
+        <li class="py-1">
+          Nézhetjük tehát a betegségeket is. Ha rád mondják -
+          <span class="text-red">rád olvassák !!! </span> -, hogy x betegséged
+          van, Te elhiszed, és komplett betegségtudatod lesz, s e szerint
+          próbálsz éldegélni tovább. De Te teremtetted, s így Te is tudod
+          megszüntetni, nem más, s legfőképpen nem kemikáliák.
+        </li>
+        <li class="py-1">
+          Ha úgy érzed, értéktelen vagy, akkor ehhez kapcsolódó
+          történéssorozatokat vonzol be, s így kiválóan be is tudod bizonyítani,
+          hogy igen, ez valóban sajnos így van. Ennek eredete egyébként
+          gyerekkori trauma, mely a tudatalattiba szépen befészkelte magát.
+        </li>
+      </ul>
+
+      <div class="text-center">
+        <div>
+          Mi lenne, ha a
+          <span class="text-red">Belső Iránytűdre</span> hallgatnál, és nem a
+          külvilág zavaros dolgaira?
+        </div>
+        <div>
+          Mi lenne, ha <span class="text-red">átértékelnéd</span> a valóságot,
+          és rájönnél, hogy más valóság is létezik?
+        </div>
+        <div>
+          Mi lenne, ha mernél <span class="text-red">Önmagad lenni</span>, és
+          nem másoknak, a TV-nek, a médiának, a rosszindulatú, és irigy emberek
+          megjegyzéseire adnál?
+        </div>
+        <div>
+          Akkor, és csak is akkor
+          <span class="text-red">VÁLTOZNA A VILÁG benned, és körülötted</span>.
+          <div>
+            <span class="text-red">Más perspektívákat</span> is meglátnál, ha
+            nem lennél hiszékeny és naiv.
+          </div>
+        </div>
+        <div>
+          Ehhez szükséges a
+          <span class="text-red"
+            >tudatosságod felébresztése és kiterjesztése</span
+          >, s talán így más köntösbe borulna a ruhád.
+        </div>
+      </div>
+    </div>
+  </div> -->
+
+  <!-- <div class="d-flex justify-content-center" style="margin-top: 100px">
+    <div class="blog-card-big col-11 col-lg-10 col-xl-8 p-4">
+      <h2 class="title text-center py-3">MITŐL ÉRTÉK AZ ÉRTÉK?</h2>
+      <div class="p">
+        Sokan nem látják meg az igazán értékeset, mert a tudatszintjük máshová
+        viszi el őket, más tartományokhoz szokott hozzá, amit eddig tanítottak
+        neki, amit megszokott, így számára láthatatlan régióban fog mozogni maga
+        az igazán értékes információ .Így nem tud kinyerni belőle tudást,
+        érzést, szeretetet, mert fel sem ismeri.Nem azonos vele, más sávban
+        közlekednek.
+      </div>
+      <div class="p">
+        <div class="text-green">No, de ki is mondja meg mi az érték?</div>
+        <div>
+          Mindenkinek más és más. Abszolút más. Az ő tudati valósága dönti el,
+          amit hozott magával, és ahová jutott, fejlődött, amiben él jelenleg.
+          Lehet, neked is, pl. 10 éve mást volt számodra értékes, de ahogy halad
+          az életfolyamán a lélek, változik, s más lesz az, amit becsülsz, úgy,
+          ahogy bölcsülsz.
+        </div>
+      </div>
+
+      <div class="p">
+        Most arról az <span class="text-red">Igazi értékről</span> beszélek -
+        ami sokak számára nem az !!! -, ami nem csak neked hoz jót az életedben,
+        hanem másokat is előbbre visz, amivel egy tudatosabb, szebb jövőt tudunk
+        építeni, ami tiszteletet jelez, és egymás segítését fémjelzi.
+      </div>
+      <div class="p text-center">
+        <img
+          src="../assets/img/blog/ertek.jpg"
+          class="w-100"
+          style="max-width: 400px"
+        />
+      </div>
+      <div class="p">
+        Sajnos ez most "nem trendi", sok igazi értéket tipornak, lévén az akár
+        "csupán" emberi, erkölcsös, humánus viselkedési formula, akár a női
+        minőség sárba tiprása, egymás emberi mivoltának nem tisztelete, sőt...
+        az
+        <span class="text-red"
+          >Élet Szentségének semmibe vevése, a Föld mérgezése</span
+        >, stb.
+      </div>
+      <div class="p text-red text-center">
+        <div>
+          Szeretnél szebb jövőt magadnak, a gyermekeidnek, s másoknak is?
+        </div>
+        <div>Mit tettél annak érdekében, hogy ez megvalósuljon?</div>
+        <div>Milyen értéket adtál a Világnak eddig?</div>
+        <div>Mi benned az érték?</div>
+        <div>Elgondolkoztál már ezen?</div>
+        <div>
+          Számomra az az érték, ami értéket teremt itt a Földön mások számára
+          is.
+        </div>
+        <div>Neked mit jelent az érték, tudod-e?</div>
+        <div>
+          Az értékes, az nem tömegcikk, nem áru, hanem... egy szívbéli
+          érzés...!!!
+        </div>
+      </div>
+      <div>Szeretettel írva soraim:</div>
+    </div>
+  </div> -->
+
+  <!-- <div class="d-flex justify-content-center" style="margin-top: 100px">
+    <div class="blog-card-big col-11 col-lg-10 col-xl-8 p-4">
+      <h2 class="title text-center py-3">ISTEN ANYA ÁLDÁSA</h2>
+      <div class="d-flex flex-wrap justify-content-center">
+        <div class="col-12 col-md-6">
+          <div
+            class="d-flex flex-column h-100 justify-content-center text-center"
+          >
+            <div>
+              <span class="text-red">Áldásom</span> Rád, és az egész Földre!
+            </div>
+            <div>
+              <span class="text-red">Megáldom</span> minden cselekedeted.
+            </div>
+            <div><span class="text-red">Megáldom</span> minden jótettedet.</div>
+            <div>
+              <span class="text-red">Megáldom</span> minden Teremtésedet.
+            </div>
+            <div>
+              Boruljon virágba az egész <span class="text-red">Életed</span>.
+            </div>
+            <div>
+              S <span class="text-red">csodák</span> halmozzák el léptedet.
+            </div>
+            <div>
+              <span class="text-red">Ragyogjon fel</span> tested, lelked,
+              szellemed.
+            </div>
+            <div>
+              <span class="text-red">Ébredjen</span> lelkedben a mindent átfogó
+              szeretet.
+            </div>
+            <div>
+              <span class="text-red">Nyíljon ki</span> szívedben a csodálatos
+              kikelet.
+            </div>
+            <div>
+              <span class="text-red">Áldás</span> kísérje minden apró léptedet.
+            </div>
+            <div>
+              Mert <span class="text-red">Te vagy a Fény</span>, melyből minden
+              született.
+            </div>
+            <div class="text-red">Áradj, Ragyogj, Szárnyalj !</div>
+            <div>
+              S légy Te a <span class="text-red">FŐNIX</span> e
+              <span class="text-red">Nagy Világnak Egén</span>!
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-md-6 text-center">
+          <img
+            src="../assets/img/blog/isten_anya.jpg"
+            class="w-75"
+            style="max-width: 350px"
+          />
+        </div>
+      </div>
+    </div>
+  </div> -->
+
+  <!-- <div class="d-flex justify-content-center" style="margin-top: 100px">
+    <div class="blog-card-big col-11 col-lg-10 col-xl-8 p-4">
+      <h2 class="title text-center py-3">
+        MERSZ- E ELKÖTELEZŐDNI SAJÁT MAGAD MELLETT?
+      </h2>
+      <div class="p">
+        Úgy látom, sok, jelenleg a Földön élő lélek nincs tisztában saját
+        prioritásával, csupán halvány árnyéka valódi önmagának. Nem a saját
+        életét éli, amit élhetne, de inkább átlebeg mások valóságába, oda
+        kötődik be, mert nincs tisztában igazi hovatartozásával.
+      </div>
+      <div class="p">
+        <div class="text-green">
+          Honnan jöttél, s hová mész, s ugyan vajon, milyen minőségben?
+        </div>
+        <div>
+          Milyen tudástár megnyitása szükséges ahhoz, hogy tisztába legyél
+          Valódi önmagaddal, s merre repítene ez? Hogyan is köteleződnél el
+          magad mellett, ha azt sem tudod kit és mit szolgálsz, s melyek az
+          eredendő képességeid, melyek hegyeket mozgatnának? Akkor változik majd
+          a Világod, ha egyszer végre elindulsz, és
+          <span class="text-red">felfedezed Önmagad</span>! Ez befelé figyelést
+          jelent, amire bizony időt kell szánni, és lecsendesedni, s meg jönnek
+          majd a várva várt gondolatok, sugallatok, melyekre eddig nem
+          figyeltél.
+        </div>
+      </div>
+      <div class="p text-center">
+        <img
+          src="../assets/img/blog/elkotelezodni.jpg"
+          class="w-100"
+          style="max-width: 500px"
+        />
+      </div>
+      <div class="p">
+        Nem a médiát kell figyelni lélektelenül, nem bambán kell nézni a
+        mozivásznat, mely elvisz téged egy módosított valóságba, hanem kelj fel,
+        és járj, s használd az eszed, mert úgy hívnak, hogy
+        <span class="text-red">EMBER</span>!
+      </div>
+      <div class="p">
+        Aki nem szolgalelkű, de <span class="text-red">szolgálatkész</span>, aki
+        mer <span class="text-red">gondolkozni</span>, és
+        <span class="text-red">érezni</span>, mert lassan lassan ez is
+        elfelejtődik, s egyszer csak azt veszed észre, hogy egy hamis illúziót
+        élsz, és nem is érted, hogyan csöppentél bele.
+      </div>
+      <div class="p">
+        Magadban bízz, ne másban, mert az eredeti
+        <span class="text-red">őstudás</span> mindenkiben ott van! Ne légy
+        másolat, klón, ahol a replikált minták szerint kell élned!
+      </div>
+      <div class="p">
+        <div class="text-green">Nem Te vagy az!</div>
+        <div>
+          Te egy <span class="text-red">egyéniség</span> vagy,
+          <span class="text-red">egyedi</span>, merj élni saját tudásoddal!
+          Ehhez tudom, hogy le kell tenni félelmeid, berögzött mintáid, régi
+          paradigmáid, melyek soha nem is voltak a Tiéd, csak elfogadtad, mert
+          <span class="text-red">rád erőltették</span>.
+        </div>
+      </div>
+      <div class="p text-red text-center">
+        Mi lenne az a változás katalizátor, ami segítene átlendíteni téged a
+        saját valóságodba, hogy önmagadban gyönyörködhess végre, és a saját utad
+        éld, amire hivatott vagy ?
+      </div>
+      <div>Ébresztő soraim, Nektek !</div>
+    </div>
+  </div> -->
+
+  <div class="d-flex justify-content-center" style="margin-top: 100px">
+    <div class="blog-card-big col-11 col-lg-10 col-xl-8 p-4">
+      <h2 class="title text-center py-3">
+        MERSZ- E ELKÖTELEZŐDNI SAJÁT MAGAD MELLETT?
+      </h2>
     </div>
   </div>
 </template>
