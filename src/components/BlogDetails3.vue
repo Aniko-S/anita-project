@@ -1422,7 +1422,7 @@
     </div>
   </div> -->
 
-  <div class="d-flex justify-content-center" style="margin-top: 100px">
+  <!-- <div class="d-flex justify-content-center" style="margin-top: 100px">
     <div class="blog-card-big col-11 col-lg-10 col-xl-8 p-4">
       <h2 class="title text-center py-3">
         NO CONTACT<br />KAPCSOLÓDÁSOK AZONNALI MEGSZŰNÉSE!
@@ -1526,6 +1526,594 @@
         <div class="text-red">Élj, s tapasztalj!</div>
       </div>
       <div>Továbbra is szeretettel és ébresztéssel írva soraim:</div>
+    </div>
+  </div> -->
+
+  <!-- <div class="d-flex justify-content-center" style="margin-top: 100px">
+    <div class="blog-card-big col-11 col-lg-10 col-xl-8 p-4">
+      <h2 class="title text-center py-3">RANDOM KAPCSOLATOK VILÁGA</h2>
+      <div class="p">
+        Eltűntek a régi erkölcsi normákon alapuló kapcsolatok a most kialakuló
+        kapcsolati sémák közül. Aki megmaradt még a meglévő kapcsolatában, ott
+        még fellelhető ezen erkölcsiség, de aki elvált, és új kapcsolódást
+        szeretne, ott most a teljes káosz uralkodik.Félnek új kapcsolatot
+        kialakítani a férfiak, nehogy megint elhagyja az asszony,illetve
+        egyáltalán nem is akarnak, mert így ők most nagyon jól érzik magukat
+        szállni egyik virágszálról a másikra. Mert megtehetik! Óriási a
+        “kínálat”! És ezzel mindent meg is mondtam. Több sebből is vérzik a
+        jelenlegi kialakult helyzet, mindkét fél hibás.
+      </div>
+      <div class="p">
+        <div class="text-green">Mit is értünk random kapcsolaton?</div>
+        <div>
+          “Éppen mit dob a gép? ” effektust. Válogatás nélkül, bárki szóba
+          jöhet, akinek a fizimiskája bejön, csinos, van benne valami, a
+          feltétel csupán, hogy ő is éppen hajlandóságot mutasson. Aki éppen
+          arra jár, akivel éppen összetalálkozott valahol, és már működik is az
+          ismerkedés, ad hoc, csak úgy spontán, miért is ne! Régebben ez úgy
+          működött, hogy ha szerették volna megismerni a hölgyet a
+          fiatalemberek, akkor ezért ők sokat küzdöttek, tettek érte intelligens
+          módon! Most ez lealacsonyodott arra a szintre, hogy az első
+          találkozónál az a kérdés, hogy nálad, vagy nálam, és ennyi. Nincs
+          izgalom, várakozás, virág, apró ajándék, mint gesztus, ez elveszlett,
+          valami nagyon elveszlett… A kapcsolatok esszenciája, szentségessége,
+          tisztelete a porba hullt. És utána, ha nem megfelelő az élmény, hát
+          akkor majd jöhet a következő válogatás nélkül, mert mennyiség az van,
+          de minőség? Kit érdekel a minőség ma már? Szinte senkit, csak legyen
+          már végre valaki!
+        </div>
+      </div>
+      <div class="p text-center">
+        <img
+          src="../assets/img/blog/random_kapcsolat.jpg"
+          class="w-100"
+          style="max-width: 400px"
+        />
+      </div>
+      <div class="p">
+        <div class="text-green">
+          Néhány speciális eset az ismeretségi körömből:
+        </div>
+        <ul>
+          <li>
+            <div class="mb-2">
+              <div>Egy kedves fiatalember elkeseredésében azt mondta:</div>
+              <div class="text-red">
+                “Teljesen mindegy, hogy ki, csak szeressen már végre valaki!“
+              </div>
+              <div>
+                És ez a mondat így, tényleg elhangzott, hát ez fájdalmas nem?
+              </div>
+            </div>
+            <div class="mb-2">
+              Azért kedvelünk, szeretünk, imádunk valakit, mert megtetszettek a
+              lelki tulajdonságai, gondolatai, szavai, cselekedetei, és őt
+              választjuk! De nem azt fogadjuk el, akit éppen felkínál az
+              Univerzum, hanem merünk várakozni, és
+              <span class="text-red"> KIVÁLASZTANI </span>
+              a számunkra kedveset! Ez a lépés marad ki ma, mert már minden
+              mindegy, csak éljük az életet valakivel, csak ne legyünk egyedül!
+            </div>
+            <div class="mb-2">
+              <div class="text-red text-center">
+                AZ EGYEDÜLLÉTTŐL VALÓ FÉLELEM!
+              </div>
+              <div class="text-red text-center">Mindent felülír!</div>
+            </div>
+            <div class="mb-2">
+              <div class="text-green">De lássuk, ki is fél?</div>
+              <div>
+                Aki nincs tisztában saját maga nagyságával, valódi mivoltával.
+                Ha mind ezzel tökéletesen tisztában lennétek,
+                <span class="text-red"> MINŐSÉGI </span>
+                lenne
+                <span class="text-red"> ÉLETETEK </span>
+                is és a
+                <span class="text-red"> PÁRVÁLASZTÁSOTOK </span>
+                is! Leadjátok a szintet, alulértékelitek magatokat!
+              </div>
+            </div>
+            <div class="mb-2 text-red text-center">
+              <div>Miért értékelitek le magatokat?</div>
+              <div>Gyerekkorból hozott családi minták!</div>
+              <div>Ezt oldani kell!</div>
+            </div>
+            <div class="mb-2">
+              Ebben a fenti példában is ezt a fiatalembert nem szerette az
+              édesanyja! Mérhetetlen szeretet hiánnyal indult az Életbe, és
+              minden nőben kereste volna azt, aki ezt a kielégíthetetlen hiányt,
+              űrt valahogy bepótolja, bárki légyen is, abszolút, válogatás
+              nélkül. Amíg fel nem ismeri Önmaga kiválóságát,
+              szeretetreméltóságát, nagyszerűségét, ez addig fog ismétlődni.
+            </div>
+          </li>
+          <li>
+            <div class="text-green">2. példa:</div>
+            <div class="mb-2">
+              Egy másik kedves férfi ismerősöm elmesélte, hogy ő úgy választ
+              társat magának, hogy egyszerre 10 hölgynek is udvarol, és közülük,
+              aki érdeklődést mutat felé, azzal fog majd próbálkozni.
+            </div>
+            <div class="text-red">
+              Létezik, hogy az a 10 hölgy mind egyformán tetszik valakinek?
+            </div>
+            <div class="mb-2">
+              És valóban, ő így alakított ki mindig is kapcsolatot, hogy aki
+              rábólintott a kezdeményezésre, ő volt a nyerő. De udvarolt barátnő
+              barátnőjének is, hátha bejön alapon, és ez ismétlődött elég
+              sokszor.
+            </div>
+            <div class="text-red">Szintén hasonló a megfejtés:</div>
+            <div>
+              A nagy számok törvényszerűsége alapján majd csak lesz valaki. És
+              lett is.
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="p">
+        <div class="text-green">
+          MI LENNE, HA AZ EMBERI ÉRTÉKEK ALAPJÁN VÁLASZTANÁNK?
+        </div>
+        <div>
+          2 példát hoztam, de ezek száma végtelen. Mintha bábuk lennének az
+          emberek, akikkel lehet a sakktáblán játszani!
+        </div>
+      </div>
+      <div class="p text-red text-center">
+        <div>MI LENNE, HA AZ ÉRZÉSEINKRE HALLGATNÁNK?</div>
+        <div>
+          És nem az ELME szüleményeire, és nem egóból, elméből választanánk?
+        </div>
+        <div>Mersz egyáltalán választani, vagy csak elfogadod, ami jön?</div>
+        <div>
+          Mered-e felismerni saját Isteni mivoltodat, mely felemel, teremtővé
+          tesz, és ezáltal tudod, hogy mindent Te irányítasz, és az lesz, amit
+          Te szeretnél?
+        </div>
+        <div>Mered e eljátszani Önmagad?</div>
+      </div>
+
+      <div class="p">
+        <div class="text-green">
+          UGYE, ÍGY AZONNAL KITÁRUL A VILÁG, S AZT JÁTSZOL EL BENNE, AMIT TE
+          SZERETNÉL, ÉS AMIT MINDIG IS SZERETTÉL VOLNA ?
+        </div>
+        <div>
+          Random kapcsolat helyett gondold át, nem jobb lenne e valós kapcsolat,
+          mert nem gépek vagyunk, hanem érző egyedi teremtmények, és értékes
+          csodás emberek. Ismerd meg Önmagad, hogy ember lehess, s emberi módon
+          éld az életed, amit kaptál a Teremtőtől, ne fecséreld el!
+        </div>
+        <div>
+          Fel kell ismernünk korunk hibáit, mibe estünk bele,… saját magunk
+          vermébe!
+        </div>
+        <div>Alakítsd saját jövőd a felismeréseid szerint.</div>
+      </div>
+      <div>Ha bármiben is felcsillanthattam valamit, örülök neki.</div>
+      <div>Tégy belátásod szerint.</div>
+    </div>
+  </div> -->
+
+  <!-- <div class="d-flex justify-content-center" style="margin-top: 100px">
+    <div class="blog-card-big col-11 col-lg-10 col-xl-8 p-4">
+      <h2 class="title text-center py-3">PILLANGÓ EFFEKTUS</h2>
+      <div class="p">
+        <div class="text-green">Mi is az a PILLANGÓ HATÁS?</div>
+        <div>
+          Biztos hallottál már róla, és érted, és érzed is, hogy mi is ez? Ez
+          egy Önsokszorozó minta, mely a végén egyre nagyobbá növi ki magát, sőt
+          egész gigantikussá is alakulhat. De mi van, ha ez a pici változás
+          klasszisokkal emelheti akár az egész emberiséget is magasabb
+          távlatokba? Sokan dolgoznak ezen, csak sokszor elakad, megakad a
+          minta, melynek folytonosnak kellene lennie. Milyen mintáról is lehet
+          szó? Bármilyen lehet, nyilván pozitív hangvételű, szeretet alapú.
+        </div>
+      </div>
+      <div class="p"></div>
+      <div class="p">
+        Egyszer láttam egy filmet, nagyon megható volt, valaki elindított egy
+        <span class="text-red">SZERETETLAVINÁT</span>. Apró segítséget nyújtott,
+        csak egy jó tanáccsal, másnap az a valaki segített egy rászorulón.
+        Persze itt nem alamizsna adásról van szó, mert sokszor az csupán a
+        lustaság eredménye, hogy valaki ide jut, hanem más emberi gesztusra
+        gondoltam. Harmadnap ő segített máson, és így tovább…, akik ténylegesen
+        bajban voltak, akár mentálisan is. Ez egy gyönyörű folyamat volt, ezt
+        látni…. A való életben nem igazán működik, csak azoknál, akiknél
+        <span class="text-red">NYITVA VAN A SZÍV </span>
+        !
+      </div>
+      <div class="p">
+        <div class="text-green">
+          De mi lenne, ha Te, aki most éppen SZÁRNYRA AKARSZ KAPNI, és
+          ÉBREDEZEL, összeszeded magad, s előbújsz rejtekhelyedről, a
+          BEBÁBOZÓDOTT állapotodból, és MEGMUTATOD MAGAD!
+        </div>
+        Nem baj, ha még kicsit bice-bócán mész, de napról napra erősödsz, és
+        tudod magad képviselni hitedben, meggyőződésedben. Erőt merítesz
+        önmagadból, támogató környezetedből, és a jó cselekedeteidből. Egyenlőre
+        csak azokat a barátokat tartsd meg, akik építenek téged, így fogsz
+        erősödni, a többi úgy sem szolgálja a közös jót, csak bomlaszt, gátol,
+        mert az a dolga az ő tudatszintjén. Ha úgy érzed, hogy fel tudsz
+        szárnyalni, tedd meg, és áraszd a fényt, a ragyogást, az örömöt, a
+        jókedvet, a jó példát! Példa értékű leszel, s mások majd tőled veszik a
+        mintát, hiszen ők is szeretnének örömöt, boldogságot az életükben.
+        Lemintáznak téged, látják a pillangót benned, mely kinyitotta,
+        kibontotta szárnyait, s ők is kezdenek felszárnyalni… s egyre többen,…
+        és egyre többen….
+      </div>
+      <div class="p text-center">
+        <img
+          src="../assets/img/blog/pillango_effektus.jpg"
+          class="w-100"
+          style="max-width: 600px"
+        />
+      </div>
+      <div class="p">
+        <div class="text-green">
+          De mi is a recept, ami által fel tud bárki is szárnyalni?
+        </div>
+        <div>
+          Egy zen mestert egyszer megkérdeztek, mond mester, mi a boldogság
+          titka?
+        </div>
+        <div>
+          Ó, fiam,… hát egészen más, mint ti nálatok nyugaton, mi itt nem
+          hajtjuk az anyagi javakat, mindig újabbat, és újabbat, s mindig valami
+          mást, mert ez csupán <span class="text-red">ILLÚZIÓ</span>. Nálunk a
+          belső béke a lényeg, önmagaddal legyél békében, így lesz szabad a
+          lelked, szenvedés- és fájdalommentes. Fontos a mértékletesség, az
+          extrém vágyak letétele.
+          <span class="text-red">A boldogság: a FEJÜNKBEN DŐL EL!</span> S így
+          születik meg benned a belső megnyugvás, mert tudod, hogy belső
+          mestered szolgálod, s a kijelölt Isteni morál szerint élsz,
+          cselekszel. S mind az, mi végig kísért utadon a
+          <span class="text-red">SZERETET</span>. A kifutópálya ennek
+          gyakorlása, megélése. S így szárnyal fel pillangód, s egyre több
+          társra lel, akik szintén szárnyalnak a maguk útján, egy lélek egységet
+          alkotva.
+        </div>
+      </div>
+      <div class="p">
+        A Te pillangód felszállt-e már, vagy még be vagy bábozódva?
+      </div>
+      <div class="p">
+        Mi lenne, ha egyre több pillangó vinné a szabadság, boldogság üzenetét
+        másoknak itt a bolygón,akik még nem bontották le magukról a kötelékeket?
+      </div>
+      <div class="p">
+        Szeretnéd-e, ha örömtelibb lenne itt az élet, és tennél is érte valamit?
+      </div>
+      <div class="p">El tudod-e hinni, hogy Te is indíthatsz változást?</div>
+      <div class="p">
+        Tudsz-e segíteni azokon, akik nálad is elkeseredettebbek?
+      </div>
+      <div class="p">
+        Mered-e elhinni magadról, hogy azért vagy itt, hogy másoknak örömöt
+        csalj a szívébe?
+      </div>
+      <div class="p">
+        Felvállalod-e nagyszerűségedet, ami benned van, csak ki kellene
+        bányászni, és élni vele?
+      </div>
+      <div class="p text-red text-center">
+        LÉGY TE IS A PILLANGÓ EFFEKTUS RÉSZESE !
+      </div>
+      <div>Ébresztő gondolataim szeretettel Neked:</div>
+    </div>
+  </div> -->
+
+  <!-- <div class="d-flex justify-content-center" style="margin-top: 100px">
+    <div class="blog-card-big col-11 col-lg-10 col-xl-8 p-4">
+      <h2 class="title text-center py-3">LEGYÉL ÉRTÉKTEREMTŐ!</h2>
+      <div class="p text-red">
+        TEREMTS ÚJ ÉRTÉKEKET, s nem is akármilyet, EGYEDIT!
+      </div>
+      <div class="p">
+        <div class="text-green">
+          Gondold át, mennyire is hasznos az életed? És kinek a számára hasznos?
+        </div>
+        <div>
+          Leélhetsz úgy egy inkarnációt, hogy elfecsérled az életed mulandó
+          dolgok hajszolásával, hogy Te mindenképpen jól érezd magad, mindened
+          meglegyen, s lehet, hogy eszedbe sem jut elgondolkozni azon, hogy
+          eközben minden ember, akivel kapcsolatba kerültél feltétlen jól jött e
+          ki a veled való találkozásból? No, ez itt a nagy kérdés! Ne csak
+          magadra gondolj, ne csak Te legyél a fontos, mert akkor nem a szeretet
+          alapú világot szolgálod, hanem az önös érdekeket preferáló világot!
+          Természetesen igyekezz úgy élni, hogy mindig erőd teljében legyél,
+          tedd meg a feladataid, rendben legyenek a dolgaid, s érezd mind e
+          közben jól magad,
+          <span class="text-red"> DE NE MÁS KÁRA ÁRÁN!</span> Tudod milyen sokan
+          figyelembe sem veszik ezt, eszükbe sem jut, ebbe belegondolni is?
+          Pedig ez lenne a lényeg, a nap minden percében úgy cselekedni,
+          gondolkodni, viselkedni, hogy mindenki jól járjon! Ne csak a pénzt
+          nézd, a pozíciót, az éppen elfogadható párt önös érdekből, akinek szép
+          háza van, és odaköltözhetsz, de nincs igazi szerelem, ne az olyan
+          munkahelyet fogadd el, ahol jó a kereset, de a másik oldalnak
+          dolgozol, mert meg lesz a böjtje, nem is akárhogy! Átvered
+          embertársad? Téged is át fognak! Bármely életterületről lévén szó,...
+          ez univerzális törvény!
+        </div>
+      </div>
+      <div class="p text-red">MI IS A JÓ ÚTVONAL?</div>
+      <div class="p">
+        <div class="text-green">TEREMTS ÉRTÉKET A VILÁGNAK!!!</div>
+        <div>
+          Munkád, feladatod, küldetésed itt léted legyen olyan, hogy
+          emlékezzenek rád, hogy tettél valami jót az emberiségért! Ha ezt nem
+          érzed a szívedből, a Te jogod eldönteni, mit választasz, s mivel
+          mindig választunk, bármikor korrigálhatsz a jó oldalra!
+        </div>
+      </div>
+      <div class="p text-center">
+        <img
+          src="../assets/img/blog/ertekteremto.jpg"
+          class="w-100"
+          style="max-width: 600px"
+        />
+      </div>
+      <div class="p">
+        <div class="text-green">
+          MIRE IS GONDOLOK, AMIKOR AZT ÍROM, HOGY TEREMTS ÉRTÉKET?
+        </div>
+        <div>
+          Olyan munkaterületre, vagy egyszerűen csak cselekvéssorozatra,
+          <span class="text-red"> JELENLÉTRE</span>, ahol maradandó, értéknövelő
+          és nem elvevő, s többletet adsz másnak, másoknak, amivel mindenki jól
+          jár, és hosszútávon is szeretet alapú, emelő, tudatosságszint növelő.
+        </div>
+      </div>
+      <div class="p">
+        <div class="text-green">Néhány példa:</div>
+        <ul>
+          <li class="py-1">
+            Segítő, gyógyító, építő beszélgetés akár “csak” baráti alapon, akár
+            a munkád során, mert olyan foglalkozást választottál, amely segít új
+            szemléletmód kialakításában, ahol az alap a tisztelet, igazság,
+            együttműködés a szeretet jegyében.
+          </li>
+          <li class="py-1">
+            Segítő projektek kialakítása a Föld és a rajta élő népesség
+            együttműködése, fejlődése céljából, mely lehet egész nagy volumenű
+            globálisabb terv, de lehet kisebb jellegű, regionális.
+          </li>
+          <li class="py-1">
+            Új tervek, modellek létrehozása, amire eddig nem is gondoltál, de
+            mivel most tágul a tudatháló egyeseknél, több merészebb,
+            individuálisabb akár egyéni kis vállalkozások létrehozása, mely
+            közelebb hozza az embereket egymáshoz, és mindannyian profitáltok
+            belőle, akár lelkileg, és szellemileg is.
+          </li>
+          <li class="py-1">
+            Gazdaság fellendítése új ötletekkel, melyeket lehet, hogy éppen Te
+            vezetsz be.
+          </li>
+          <li class="py-1">
+            Mezőgazdaság modernizálása akár otthoni elindulással, bio
+            vegyszerekkel.
+          </li>
+          <li class="py-1">
+            Segítő csoportok teemek, közösségek létrehozása akár virtuálisan,
+            akár a természetes való világban. Ez lehet szellemi munkára
+            irányult, lelki-energetikai segítséget adó, ősi tudást felelevenítő
+            és tovább vivő, nemzeteket összekötő csoportok létrehozása, akár női
+            körök, illetve férfi mentális munkákat összefogó egyesületek,
+            akadémiák, stb…
+          </li>
+          <li class="py-1">
+            Ősi tudáson alapuló körök, szakkörök,munkacsapatok, ahol
+            megtanulhatók az elfelejtett tevékenységek. /fonás,
+            hangszerkészítés, ékszerkészítés…/
+          </li>
+          <li class="py-1">
+            Legyél író, blogger, hozd létre saját önmagad, merd kiírni, leírni,
+            ami benned van!
+          </li>
+          <li class="py-1">
+            Fess, alkoss, hozd létre saját stílusod, teremts valami újat!
+          </li>
+          <li class="py-1">Hozz létre új táncot, mozgásformát!</li>
+          <li class="py-1">
+            Gasztronómiai újdonságokat hozz létre, avagy vedd át ősi tudást!
+          </li>
+          <li class="py-1">Fejlessz műszaki dolgokat új látásmód szerint!</li>
+          <li class="py-1">
+            Gyárts akár otthon bármilyen terméket, melyhez van affinitásod!
+          </li>
+          <li class="py-1">Új lakberendezési ötletek!</li>
+          <li class="py-1">...a sor folytatható a végtelenségig…!</li>
+        </ul>
+      </div>
+      <div class="p">
+        Csupán ötleteket adok, szemeket nyitok fel, hogy NEM CSAK AZ VAN, AMIT
+        EDDIG TANULTÁL, ÉS AMIT BELÉD VERTEK, hanem a
+        <span class="text-red">LEHETŐSÉGEK KORLÁTLANOK!</span>
+        Szerencsére ezen már nagyon sokan elindultak, de még mindig nem elegen!
+      </div>
+      <div class="p text-red text-center">TALÁN TE LESZEL A KÖVETKEZŐ?</div>
+      <div class="p">
+        <div>A fő szempont és univerzális alapelv:</div>
+        <div class="text-red text-center">
+          NE ÁRTS, HOGY NEKED SE ÁRTSANAK !
+        </div>
+      </div>
+      <div class="p">
+        Megszegheted ugyan, de nem érdemes! Csak olyan információt adj tovább,
+        amiről meg vagy győződve a személyes példák alapján, hogy makulátlanul
+        jó! Te is csak azt fogod visszakapni!
+      </div>
+      <div class="p text-green">
+        ÉRTÉKET CSAK AKKOR TUDSZ TEREMTENI, HA TISZTÁBAN VAGY AZZAL A TÉNNYEL,
+        HOGY TE IS ÉRTÉKES VAGY!
+      </div>
+      <div class="p">
+        Elcsodálkozol rajta? Maximális önértékelés, önmagaddal tisztában levés,
+        és saját potenciálod felhúzása!
+      </div>
+      <div class="p">
+        <span class="text-red">
+          EGYÜTT EGYMÁSÉRT tenni, és NEM HÁTBA SZÚRNI!
+        </span>
+        Csak így tudsz értéket teremteni, másként mást teremtesz.
+      </div>
+      <div class="p">
+        <div class="text-green">MERT MI IS AZ ÉRTÉK?</div>
+        Értékes az, mi szívet melengető, feltölt téged, emeli a rezgésed,
+        boldogság érzetet ad, segít másoknak, hosszútávon is a jót szolgálja,
+        tanulsz belőle, lelked gyönyörködik benne.
+      </div>
+      <div class="p">
+        <div class="text-green">TE MIBEN SZERETNÉL GYÖNYÖRKÖDNI?</div>
+        A kérdést nyitva hagyom, szárnyaltasd a gondolataid…
+      </div>
+      <div class="p">
+        Ha építő gondolatokat adtam át, úgy használd fel, s lépj !
+      </div>
+      <div class="p">Szeretettel írva Neked:</div>
+    </div>
+  </div> -->
+
+  <div class="d-flex justify-content-center" style="margin-top: 100px">
+    <div class="blog-card-big col-11 col-lg-10 col-xl-8 p-4">
+      <h2 class="title text-center py-3">
+        SZABADSÁG, SZERELEM, E KETTŐ KELL NEKEM!
+      </h2>
+      <div class="p text-red text-center">
+        <div>Szabadnak születtél, s egy szeretet-hálóba csöppentél bele!</div>
+        <div>De tényleg így is érzed magad?</div>
+        <div>
+          Tudsz-e szabadon szárnyalni, és minden úgy történik, ahogy szeretnéd?
+        </div>
+        <div>
+          Mersz-e fejest ugrani az újba, egy teljesen tiszta lappal, ami a
+          szabadság mámorát adná Neked?
+        </div>
+        <div>Szerelmetes tudsz-e lenni az Univerzumba?</div>
+        <div>
+          Meg mered-e élni a szerelmet, mint érzést, mely magával ragad, de nem
+          tudod hová?
+        </div>
+      </div>
+      <div class="p">
+        <div class="text-green">
+          Ha mind ezekre nincs egyértelmű életigenlő válasz, vesd bele magad az
+          Életbe!
+        </div>
+        Jönnek majd a segítők, a segítő szituációk, merj élni! Ha másokat
+        okolnál valamiét, no, ezt felejtsd el, mivel minden belőled indul ki. Te
+        teremted a Világodat, csak az lesz, amire fókuszálsz, akár pozitív, akár
+        negatív irányba! Kiváló negatív teremtő az ember. Mi lenne, ha csak a
+        pozitívra összpontosítanál, és nincs is esély, hogy más legyen?
+        <div class="text-red text-center">Vágj bele!</div>
+        <div class="text-red text-center">Most!</div>
+      </div>
+      <div class="p">
+        Szabadítsd fel lelked a régi sérelmektől,betokosodott régi
+        hitrendszerektől! Válj <span class="text-red">ÚJ EMBER</span>-ré, amit
+        az <span class="text-red">ÚJ KOR</span> szellemisége megkövetel azoktól,
+        akik fejlődni szeretnének.Ha nem sikerül magad kibontani a régiből,
+        akkor az marad.
+      </div>
+      <div class="p">
+        <div class="text-green">
+          Mert mire is vágyik egy igazi tiszta lélek, ki ide jött a Földre
+          körülnézni, vándorútja egyik állomására?
+        </div>
+        <div>
+          Te mit szeretnél? Csukd be a szemed, és mond ki, amit a szíved mond
+          most Neked. Lelked valószínű, nem a börtönre vágyik, a kalickára /
+          mely akár aranykalicka is lehet!/, hanem a
+          <span class="text-red">TELJESSÉG MEGÉLÉSÉRE</span>, melynek alapköve,
+          hogy ne légy megbilincselve semmivel sem. Mivel kötheted meg magad?
+          Megfelelési kényszer, bűntudat, önbizalomhiány, kisebbrendűségi érzés,
+          ítélet, düh, irigység, féltékenység,szegénységi fogadalom, stb. Bármi
+          amit az elméd előállít.
+        </div>
+      </div>
+      <div class="p">
+        <div class="text-green">A RAGASZKODÁS HELYETT ELRUGASZKODNI!!!</div>
+        <div>
+          Ha <span class="text-red">Szabadon Szárnyalsz</span>, mindent meg
+          tudsz ízlelni, ami megérint, megismerni, belemenni, átélni, és haladni
+          tovább, újra felfedezni az élet szépségeit, melyek melengetik a
+          szívedet, méghozzá úgy, hogy közben karöltve jársz az
+          <span class="text-red">Isteni Morállal</span>. Kisebb buktatóknál
+          persze el bukhatsz ugyan,de ebből tanulsz, fejlődsz,haladsz tovább, s
+          közben rájössz, hogy úgy segíted magad fejlődését, ha haladsz a
+          lépcsőn felfelé, és figyeled magad, s kontrollálod,hogy az út, amelyen
+          elindultál, vajon tiszta-e?
+        </div>
+      </div>
+      <div class="p text-center">
+        <img
+          src="../assets/img/blog/szabadsag_szerelem.jpg"
+          class="w-100"
+          style="max-width: 400px"
+        />
+      </div>
+      <div class="p">
+        Ha szabad a lelked, béklyóid ledobtad, és kéz a kézben haladsz az
+        <span class="text-red">Isteni Tudással</span>, minden megnyílik előtted,
+        s tárt kapuk várnak. Lelked könnyedén siklik, nincs akadály, s érzed,
+        hogy áramlásban vagy. <span class="text-red">FELSZABADULTÁL</span>. S Te
+        döntöd el, mit képviselsz, merre mész, merre haladsz.
+      </div>
+      <div class="p">
+        Ha elindultál, s szabaddá váltál, szintednek megfelelő szerelmetes társ
+        csatlakozhat hozzád. Ennek előfeltétele, hogy sugározd ezeket a
+        frekvenciákat, érezd az érzést! De jól figyeld meg:
+      </div>
+      <div class="p">
+        <div class="text-red text-center">
+          Tényleg egyforma-e a hitrendszeretek, s egyfelé haladtok-e?
+        </div>
+        <div class="text-red text-center">Meg van-e a közös cél?</div>
+        <div class="text-red text-center">A közös szellemiség?</div>
+      </div>
+      <div class="p">
+        Ha nincs, csak ideiglenes párt kaptál, ideiglenes időre, de így is jól
+        érezheted magad. Egy darabig persze, akár szenvedés is lehet benne, de a
+        jó felismerésekkel ez tompítható.
+      </div>
+      <div class="p text-center">
+        <div>
+          <span class="text-red">A szíveddel láss</span>, s nézd meg benne,
+          <span class="text-red">ő mire vágyik</span> vajon?
+        </div>
+        <div class="text-red">
+          Biztos, hogy Te meg tudod adni neki, amit ő szeretne?
+        </div>
+        <div class="text-red">Láss az ő szemével!</div>
+        <div class="text-red">Ha nem egy pár vagytok, ne erőltesd!</div>
+        <div>
+          Ha érzed Őt, és minden rezdülését, s ott a kölcsönös tisztelet, érzés,
+          parázs, lángolás...
+        </div>
+        <div class="text-red">Éld át a folyamatot!</div>
+        <div class="text-red">Ez az Élet AJÁNDÉKA neked!</div>
+        <div>
+          Azért vagy itt, hogy <span class="text-red">szeress</span>, de tégy
+          bele apait-anyait!
+        </div>
+        <div>
+          <span class="text-red">Éld át</span> a teljességét, amit ad a
+          kapcsolat Neked!
+        </div>
+        <div>
+          <span class="text-red">Tápláljátok</span> egymás lelkét, ne legyen
+          egyoldalú, mert akkor mindig borul.
+        </div>
+        <div>
+          <span class="text-red">Találjátok</span> meg benne a Szentségességet,
+          ami ugyan mára elveszett, de keveseknek megadatik.
+        </div>
+        <div class="text-red">
+          S miért is ne lennél épp Te, aki ezt megkaphatja…
+        </div>
+      </div>
+      <div class="p">Szeretettel és ébresztéssel írva-e sorokat Neked:</div>
     </div>
   </div>
 </template>
