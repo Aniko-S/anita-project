@@ -949,11 +949,583 @@
     </div>
   </div> -->
 
+  <!-- <div class="d-flex justify-content-center" style="margin-top: 100px">
+    <div class="blog-card-big col-11 col-lg-10 col-xl-8 p-4">
+      <h2 class="title text-center py-3">
+        AZ IMPLANTÁTUMAID BŰVÖLETÉBEN ÉLSZ, AVAGY ÍGY AKARSZ TÖBBNEK LÁTSZANI?
+      </h2>
+      <div class="p">
+        <div class="text-green">Húú… az már régen rossz, ha így gondolod!</div>
+        <div>
+          Avagy ez is egy <span class="text-red">ELMEPROGRAMOZÁS</span> része,
+          mely azt sugallja, hogy távolodj el az eredetitől, s bármi művit
+          megtehetsz, csak fizess jó sok pénzt érte?
+          <span class="text-red">BETEG ÉNKÉPET</span> formáló téveszmék, melyet
+          be is vehet egy lebutított társadalom. Mindez nem jelenti azt, hogy Te
+          ezt a cumit bevedd! A józan belátásod, az hová tűnik ilyenkor?
+        </div>
+      </div>
+      <div class="p">
+        <span class="text-red">IDEGEN TOLLAKKAL ÉKESKEDNI</span>, egy
+        <span class="text-red">LÁTSZATVALÓSÁGOT</span> produkálni, hogy másnak
+        lássanak, mint ami valójában vagy.
+      </div>
+      <div class="p">
+        Nagy, nagy <span class="text-red">SZEGÉNYSÉGI BIZONYÍTVÁNY</span>, nem
+        merni kiállni az emberek elé, úgy ahogy vagy, mert kisebbnek,
+        kevesebbnek érzed magad.
+      </div>
+      <div class="p text-center">
+        <img
+          src="../assets/img/blog/implantatum.jpg"
+          class="w-100"
+          style="max-width: 400px"
+        />
+      </div>
+      <div class="p">
+        <div class="text-green">
+          LÉLEKBEN VAGY SZEGÉNY, s ezzel kell palástolnod?
+        </div>
+        <div>
+          Műanyagot emberi testbe? De miért is? Nemsokára betiltják a műanyag
+          bevásárló táskákat, s Te ilyeneket tetetsz magadba, hogy elrákosodj, s
+          egy <span class="text-red">ILLUZIONISTA</span> légy, csak azért hogy
+          így kívánatosabbnak tűnj? Tarol Ahrimán világa, a kéj, az erkölcsök
+          szabad felrúgása, az ál-babák világa.
+        </div>
+      </div>
+      <div class="p">
+        <div class="text-green">
+          Értékvesztett embertömegek élnek téves hitrendszerben, messze az
+          igazságtól.
+        </div>
+        <div>
+          Isten nem műanyag bábukat alkotott! Hús-vér embereket, akiknek tiszta
+          érzéseik, érzelmeik vannak, s akik mernek tisztán, őszintén élni,
+          szeretni. Miért <span class="text-red">ÖNROMBOLOD</span> magad?
+          Élhetnél egy valódi, természetes Életet, aki Te vagy! Nem mered
+          felvállalni saját magad, hogy ki is vagy valójában, s így kell
+          <span class="text-red">RETUSÁLTATNI</span> magad?
+        </div>
+      </div>
+      <div class="p">
+        <div class="text-green">
+          Nézzük meg, miből is fakad ezek a deviáns, fóbiásan beteg tévképzet?
+        </div>
+        <div>
+          Önleértékelés, kisebbrendűségi érzés, feltűnési-kitűnési, s
+          felfokozott szexuális vágy… mert a lelke sajog, fáj, keres vészesen
+          valamit, mert nincs benne szeretet. Úgy gondolja, így jobban kell a
+          férfiaknak, jobban felfigyelnek rá, s így mindig lesz mellette valaki,
+          vagy valakik?
+        </div>
+      </div>
+      <div class="p">
+        <div class="text-green">Mi is kell valójában egy igazi férfinek?</div>
+        <div>
+          Bizonyára nem mű-baba, mert az soha nem lesz segítő, gondoskodó,
+          beleérző, családcentrikus hölgy, csak egy egocentrikus,
+          exhibicionista, önimádó nő, aki ki akarja szolgáltatni magát. Az igazi
+          szeretetnek ehhez semmi, de semmi köze! Nem is oly rég ezt hallottam:
+          Ó, ő még az ülő testrészére is szeretne csináltatni! Folyamatosan
+          műtétekre jár, nem részletezem, mi mindenen volt már, hosszú lenne a
+          lista.
+        </div>
+      </div>
+      <div class="p text-red text-center">
+        <div>Istenem, gyermekeid mivel is játszanak?</div>
+        <div>
+          Ha a tudatlanság fel lenne számolva, élhető, gyönyörű bolygó lenne
+          Világunk.
+        </div>
+        <div>Mit is tesz a szabad akarat?</div>
+        <div>A Te életed a Te tudatszintedtől függ.</div>
+        <div>TÉGY BELÁTÁSOD SZERINT!</div>
+        <div>JÖVŐD E SZERINT ALAKUL, TE FORMÁLOD!</div>
+      </div>
+      <div>
+        / Ezen cikk nem a balesetek, vagy korrekciós egészségügyi műtétekre
+        céloz, ami akár életmentő is lehet./
+      </div>
+      <div>
+        Szemfelnyitó cikk alvóknak. Egyéb iránt inkább megmosolyogtató, mit is
+        tud tenni az ember magával, ha kiesett az
+        <span class="text-red">EGYSÉGÉRZETBŐL</span>.
+      </div>
+      <div>
+        <span class="text-red">Ember, mi mindenre képes vagy!</span> De akár
+        fordíthatod mérhetetlen sok levezetetlen energiád mások szolgálatába,
+        megsegítésére. Szíved joga, mit teszel.
+      </div>
+      <div>Ráébresztő cikk, hátha valakit elgondolkodtatok….</div>
+    </div>
+  </div> -->
+
+  <!-- <div class="d-flex justify-content-center" style="margin-top: 100px">
+    <div class="blog-card-big col-11 col-lg-10 col-xl-8 p-4">
+      <h2 class="title text-center py-3">LÉLEKVADÁSZAT</h2>
+      <div class="p">
+        <div>
+          Az <span class="text-red">Élet Színpadán</span> élsz, de vajon
+          látod-e, mi van a kulisszák mögött ?
+        </div>
+        <div>
+          Látod-e, hogy folyik egy harc egy
+          <span class="text-red">másik színtéren</span> is?
+        </div>
+        <div>
+          Az <span class="text-red">Égi Morál</span> és
+          <span class="text-red">Ahrimán</span> között?
+        </div>
+      </div>
+      <div class="p">
+        <div class="text-green">
+          Folyik a harc a lelkekért, s ugyan kinek a tábora fog
+          győzedelmeskedni?
+        </div>
+        <div>
+          Évezredek óta folyó harc ez, különböző érákban, különböző színtereken,
+          helyszíneken, emberekkel és humanoidoknak tűnő lényekkel az
+          <span class="text-red">Isteni Igazság</span> és az
+          <span class="text-red">Ellen oldal</span> között, mely utóbbi lehúz,
+          leránt,s időszakos jóléttel kecsegtet a látszólagos kis ál-boldogság
+          cseppekkel átitatva, megmételyezve akár Téged is, s bárkit itt ezen a
+          Földön, a dualitás talaján.
+        </div>
+      </div>
+      <div class="p">
+        Ármányként jön Ahrimán, az Ámítás Mestere, s próbákon kell átmenned,
+        vajon bedőlsz-e neki? Mindennapi próbák ezek, kisebbek, nagyobbak, s Te
+        átlátod-e ezt vajon? Megpróbálnak eltéríteni arról a tiszta útról, mely
+        Isten valósága, s amibe születtél még tisztán, szeretettelien, s
+        ragyogva, ahogy érkeztél ebbe a valóságba, mint utazó.
+      </div>
+      <div class="p text-center">
+        <img
+          src="../assets/img/blog/lelekvadaszat.jpg"
+          class="w-100"
+          style="max-width: 400px"
+        />
+      </div>
+      <div class="p">
+        <div class="text-green">EZ A LELKEK PRÓBÁJA ITT ÉS MOST A FÖLDÖN!</div>
+        <div>
+          Vajon engedsz-e a <span class="text-red">kísértésnek</span>, csak
+          azért, hogy ideiglenesen jó legyen Neked?
+        </div>
+        <div>
+          <span class="text-red">Eladod-e a lelked</span>, hogy érvényesülj, s
+          hogy ”sikered” legyen, s hatalmad mások felett?
+        </div>
+        <div>
+          Vagy hallgatsz a lelkiismeretedre, a
+          <span class="text-red">Szív-Központodra</span>, és a benső hangod
+          irányítása szerint cselekszel, hogy mindenkinek jó legyen ?
+        </div>
+        <div>
+          Vajon beszippant-e a <span class="text-red">másik oldal</span>?
+        </div>
+        <div>
+          Hagyod-e magad, és egyáltalán érzed. és tudod-e, hogy
+          <span class="text-red">csapdába akarnak rántani</span>?
+        </div>
+      </div>
+      <div class="p">
+        <div class="text-green">Miről is van szó?</div>
+        <ul>
+          <li>
+            Sokszor kötsz olyan szerződést, ami később kiderül, hogy nem téged
+            szolgál.
+          </li>
+          <li>Rávesznek olyan vásárlásra, amit nem is szeretnél.</li>
+          <li>
+            Olyan kapcsolatba bonyolódsz, melyben kihasználnak téged, s csak
+            később esik le.
+          </li>
+          <li>
+            Olyan könyveket, újságokat olvasol, ami befolyásol téged valamire,
+            amit nem is gondolsz.
+          </li>
+          <li>
+            Rendezvények, előadások: mindenki mindenkit manipulálni akar! Érezd
+            meg, szeretet alapú-e?
+          </li>
+          <li>
+            Közösségek szervezése. Mi a cél? Ezt figyeld! Tényleg jó-e neked? A
+            legfelsőbb tudatosságot szolgálja-e?
+          </li>
+        </ul>
+        <div>Tovább folytathatnám a sort, de nem teszem.</div>
+      </div>
+      <div class="p">
+        <div class="text-green">Mindenki gyűjti táborát.</div>
+        <div>
+          Csak oda add a figyelmed, ahol szív alapú a szándék. Hogy ezt miből
+          veszed észre? Egyszerű. Lelkileg ráhangolódsz, és megfigyeled: Jót
+          akar-e ez a valaki, vagy valami /szervezet/ nekem? Ha rezeg a léc,
+          elbizonytalanodsz, vagy ha nagyon nagy a rád hatás, szinte mindent
+          bevetnek, az gyanús.
+        </div>
+      </div>
+      <div class="p">
+        <div class="text-green">
+          Honnan ismerhető fel a szív-barát hozzáállás?
+        </div>
+        <div>
+          Spontán, szeretetteljes, egyszerű, reális pénzösszegű, hiteles,
+          példaértékű, nem hivalkodó, együttérző, a szívedből beszél, jó érzés
+          ott lenni, érzed, hogy jót akar neked, nyugodt érzést kölcsönöz.
+        </div>
+        <div>
+          S ha a szemébe nézel egy ilyen embernek, akitől vársz valamilyen
+          információt, vagy egyszerűen csak emberi kapcsolatról van szó, és ő a
+          szív útját képviseli:
+          <span class="text-red">CSAK NÉZZ A SZEMÉBE</span>… és az mindent
+          elmond !
+        </div>
+      </div>
+      <div>
+        Szeretettel írtam ébresztő soraim ma is Neked! Bizonyára ezt mind tudod,
+        de jó érzés a hitünkben való megerősítés!
+      </div>
+    </div>
+  </div> -->
+
+  <!-- <div class="d-flex justify-content-center" style="margin-top: 100px">
+    <div class="blog-card-big col-11 col-lg-10 col-xl-8 p-4">
+      <h2 class="title text-center py-3">INSPIRÁTOROK A FEDÉLZETEN</h2>
+      <div class="p">
+        <div class="text-green">Inspiráljátok egymást!</div>
+        <div>
+          Ugye jó érzés, ha valaki inspirál, motivál téged? Valójában akkor
+          szinte szárnyra kapsz, s úgy érzed, mintha valahonnan óriási erőt
+          kaptál volna, s érzed és tudod, hogy hegyeket tudsz mozdítani, bármire
+          képes vagy, még akár a világot is megváltani.
+          <span class="text-red">Erő ez a javából!</span>
+        </div>
+      </div>
+      <div class="p text-center">
+        <img
+          src="../assets/img/blog/inspiratorok.jpg"
+          class="w-100"
+          style="max-width: 600px"
+        />
+      </div>
+      <div class="p">
+        <div class="text-green">
+          De vizsgáljuk is meg rögtön, hogy honnan is ered ez az érzés ?
+        </div>
+        <ul>
+          <li class="py-1">
+            Egyrészt csodálatos, hiszen feléledtél, áramlásba kerültél, s érzed,
+            hogy igen, meg tudod csinálni, jó vagy, ügyes vagy. Óriási belső
+            erőt ad, az biztos. Lehet, enélkül állóvíz lett volna az életed, és
+            csak ez a külső energiabomba kellett ahhoz, hogy elindulj, feléledj,
+            s újra mozgásba lendülj. Ez mindenképpen pozitív, s jótékony hatású.
+            Mint egy <span class="text-red">NYOMÓGOMB</span>, úgy működik
+            rajtad, bekapcsol, s indulsz.
+          </li>
+          <li class="py-1">
+            Te vajon inspirálsz-e embereket, bárkit, áramoltatod-e ezt a csodás
+            energiát, vagy csak másoktól várod el? Esetleg jársz folyamatosan
+            energiákért, s tanácsadásokért, ami nem baj, de egy idő után neked
+            is ezt át kell adni tovább, mint a hógolyó, gördíteni kell tovább,
+            mert megreked. Így lehetsz akár szivacs, ami magába szívja az
+            energiát, az infót, és abban jól el van, és ennyi, vagy csak saját
+            javára használja fel. Nem tarthatjuk meg csak magunknak, mert nem a
+            mienk, hanem mindenkié, és így tovább kell árasztani, ha be tudtuk
+            integrálni magunkba, és tényleg a hasznunkra vált. Váljon másnak is,
+            hiszen egymás segítői vagyunk. Ha beteg vagy, és így kaptad a lelki
+            energiát mozgósító külső dicséretet, reményt adó inspirációkat,
+            akkor persze először töltekezz vele, hogy felépülj, gyógyulj, utána
+            automatikusan is adod majd tovább, ha van benned emberség.
+          </li>
+          <li class="py-1">
+            Minél több embert inspirálsz, emelsz, annál jobban erősödsz Te is,
+            mert rád is visszahat, univerzális törvény. Ha esetleg a munkádhoz
+            tartozik, akkor kérhetsz érte javadalmazást, de szigorúan emberi
+            léptékkel.
+          </li>
+          <li class="py-1">
+            A párodat inspirálod? Ez igen fontos kérdés, nem elvetendő!
+            Természetes, hogy segítjük, bátorítjuk, erőt adunk a párunknak,
+            <span class="text-red">FOLYAMATOSAN</span>, minden nap, hiszen egyek
+            vagyunk, ha őt bátorítod, erősíted, akkor magadat is. Ingyen van ez
+            az energia, szabad energia, miért is ne élnél vele? Használd, élj
+            vele, csak javatokra válhat, de jaj, ha visszaélsz vele! Szívből,
+            spontán kell jönnie ennek az inspirációnak, mert csak így van ereje,
+            elméből nem működik, mesterségesnek tűnik, és azonnal érezhető a
+            különbség. Motiváld a párod napi szinten, és szárnyra fog kapni,
+            boldog lesz, érzi a háttértámogatást, és megtalálja magában azt az
+            erőt, ami mindig is ott volt, csak szunnyadt benne, mert nem látta
+            meg senki, legfőképpen saját maga nem.
+            <div>
+              <span class="text-green">Fontos megfigyelni való</span>: figyelned
+              kell, hogy
+              <span class="text-red">a párod is motivál-e téged</span>, mert ha
+              nem, egyoldalú a kapcsolat. Ezt látnod, tudnod, érezned kell. Vagy
+              nem vagy számára igazán fontos, vagy ő jár hozzád energiákért,
+              mint energiavámpír !
+            </div>
+            <div class="text-red">
+              Ha kölcsönös az inspiráció, csodákra lesztek képesek!!!
+            </div>
+          </li>
+          <li class="py-1">
+            Magasabb tudatszinten már nem kell, hogy bárki is inspiráljon Téged,
+            mert tudatában vagy, hogy ki vagy te, és nem a külvilágnak szeretnél
+            megfelelni, nem attól függsz. Ezt még kevesebben lépik meg, de még
+            is egyre többen. Az ilyen ember pedig mindenki inspirátora, mert
+            tudja, hogy így tudja segíteni embertársait. Benne van az erő, tud
+            róla, és használja, de bölcsen.
+          </li>
+        </ul>
+      </div>
+      <div class="p">
+        A mai kaotikus világunkban általában hátbatámadás van, ember embernek
+        farkasa, érdekenergiák bűvkörében, csábkörében szédelegve, tántorogva, s
+        vetődve ide-oda, oda, ahol ő jól jár. Ennek reméljük nemsokára vége,
+        mert így értelmetlen az egész itteni lét.
+      </div>
+      <div class="p">
+        Ebben úgy tudjátok segíteni, emelni Gaiát is, és egymást is, hogy egymás
+        felé fordultok, kölcsönös tiszteletben, szeretetben, és buzdítjátok,
+        lelkesítitek, inspiráljátok egymást, hogy
+        <span class="text-red">ÉBREDJEN MÁR AZ AZ ISTENI ERŐ BENNED!</span>
+      </div>
+      <div class="text-red text-center">VILÁGOKAT TUDTOK MOZDÍTANI!</div>
+    </div>
+  </div> -->
+
+  <!-- <div class="d-flex justify-content-center" style="margin-top: 100px">
+    <div class="blog-card-big col-11 col-lg-10 col-xl-8 p-4">
+      <h2 class="title text-center py-3">VILÁGÍTÓTORONY VAGY!</h2>
+      <div class="p">
+        <div class="text-green">
+          Hiszed, ha nem, Világítótorony lehetsz, valóban.
+        </div>
+        <div>
+          Ezt nem adják csak úgy oda neked, ezért tenned kell, hosszú önkeresés,
+          önfelismerés, önfejlesztés az út neve. Lehet, hogy már az is vagy,
+          csak nem tudsz róla?
+        </div>
+      </div>
+      <div class="p">
+        Fényesen fel tudsz ragyogni, mások segítésére, fejlődésének
+        előmozdítására! Ez igen hosszadalmas, fáradtságos tanulással,
+        megtapasztalással járó út, melynek a legfőbb mozgatórugója a saját
+        korlátozó hiedelemrendszered ledobása, és egy
+        <span class="text-red">ÚJ EMBER</span>-ré válás!
+      </div>
+      <div class="p">
+        Lehet, hogy kilógsz a sorból, a széles sorból, de ez az igaz út, a
+        keskeny út. Megvetéssel, kiközösítéssel, kinevetéssel, lealázással is
+        járhat, de Te ezzel ne törődj, a tudatszinjtük legalján lévők teszik
+        ezt, akik nem értik az életet, nem látnak, sötétben tapogatóznak. Ők még
+        csak a mának élnek, mert nem tudják, hogy létezik majd más is, hiszen a
+        tudatod az örök, és szárnyal tovább a szkafandered levetése után is. S
+        így nagyon nem mindegy, hová kerülsz, ott hogyan érzed majd magad, s
+        utána, hová, merre is kerülsz, hová születsz le újra, s milyen
+        feladattal, vagy esetleg már nem kell leszületned?
+      </div>
+      <div class="p">
+        <div class="text-green">Ha Világítótorony vagy:</div>
+        <ul>
+          <li>
+            Jól érzed magad a bőrödben, mert veled van a tudás, bölcsesség,
+            megértés.
+          </li>
+          <li>Titkok tudója vagy, átlátsz a fátylon.</li>
+          <li>
+            Már nem sért semmi, nem fáj, nem szenvedsz, mert ebben a világban
+            már más a megértés.
+          </li>
+          <li>Nem vagy beteg, mert nincs miért, megtanultad már a leckéket.</li>
+          <li>
+            Segíted embertársaid, azzal, ami a Te különleges képességed, belső
+            szépséged, gondoskodásod, ami valamivel több, ahol eddig, és ahogy
+            éltél.
+          </li>
+          <li>
+            Szolgálati szinten vagy. Már csak az érdekel, a másikért mit tudsz
+            tenni, hogy ő is, s vele együtt a környezeted, s lakóövezeted,
+            országod… s az egész bolygó is emelkedhessen.
+          </li>
+        </ul>
+      </div>
+      <div class="p text-red text-center">
+        Mind ehhez meg kell érni, s rá kell jönni, a többi, az csak
+        hiábavalóság.
+      </div>
+      <div class="p text-center">
+        <img
+          src="../assets/img/blog/vilagitotorony.jpg"
+          class="w-100"
+          style="max-width: 600px"
+        />
+      </div>
+      <div class="p">
+        <div class="text-green">
+          Tündökölve kiragyogsz a többi közül, s van aki:
+        </div>
+        <ul>
+          <li>Féltékenyen utálkozik rajtad.</li>
+          <li>Felnéz rád, és követni akar!</li>
+        </ul>
+      </div>
+
+      <div class="p">
+        Megosztó vagy, megosztod a tömeget, de a felemelkedést segíted! Segítesz
+        a tiszta úton járni, segítesz vezetni, elvezetni a Forráshoz azt, aki
+        kéri, érti, érzi.
+      </div>
+      <div class="p">
+        <div class="text-green">Mivel segítesz?</div>
+        <ul>
+          <li>Egy jó szóval, lelket melengetővel.</li>
+          <li>
+            Felismeréssel, … lehet, hogy fájdalmassal, de meg kell tenned,
+            valakit csak így ébreszthetsz, ha egyáltalán ébreszthető. Ha tanul
+            belőle, megérte! Az alvókat hagyni kell, ha ellenáll, neki még
+            szenvedni kell.
+          </li>
+          <li>
+            Tanításokkal, melyen Te már végig mentél, s tudsz már róla mesélni.
+          </li>
+          <li>Új energiákba beleállni, új kreációkat létrehozni.</li>
+          <li>
+            Közösséget alapítani, alkotni, melyben az új értékrend szerint
+            cselekszetek.
+          </li>
+        </ul>
+        A többivel ne törődj, továbbra is fejleszd magad, testi, lelki,
+        szellemszinten légy edzett, erős, határozott, következetes, és
+        bombabiztos magadban, s hitedben.
+      </div>
+      <div class="p">
+        <div class="text-green">Járj az élen:</div>
+        <ul>
+          <li>Megfelelő egészséges étrend bemutatásával</li>
+          <li>Tested karbantartásával</li>
+          <li>Szellemed magas szinten tartásával</li>
+        </ul>
+      </div>
+      <div class="p text-red text-center">
+        <div>LÉGY VEZÉRCSILLAG MAGYARORSZÁG EGÉN!</div>
+        <div>
+          Tarts békemeditációkat, így emeled a rezgést körülötted, s messze
+          távolban is!
+        </div>
+      </div>
+      <div>Ha megérintettem lelked, örülök neki!</div>
+      <div>Határtalan szeretettel :</div>
+    </div>
+  </div> -->
+
   <div class="d-flex justify-content-center" style="margin-top: 100px">
     <div class="blog-card-big col-11 col-lg-10 col-xl-8 p-4">
       <h2 class="title text-center py-3">
-        MERSZ- E ELKÖTELEZŐDNI SAJÁT MAGAD MELLETT?
+        NO CONTACT<br />KAPCSOLÓDÁSOK AZONNALI MEGSZŰNÉSE!
       </h2>
+      <div class="p">
+        Teljes értékvesztettség és érdeklődés hiánya egy esetleges újonnan
+        kialakuló kapcsolódások során, ez a legújabb nihilista módi! Pár mondat
+        elhangzása után, már ki akarják biztosítani maguknak a frenetikus esti
+        programot, és ha ez nem úgy tűnik, hogy azonnal menni is fog, akkor
+        menthetetlenül azonnal megszakítják az ismerkedésnek a normális,
+        kulturált formáját. Egyre többen panaszkodnak erről, hogy megismerkednek
+        egy fiatalemberrel, és megy cseten az ismerkedés, vagy személyesen,
+        néhány mondat után azonnali figyelemfelkeltés indul, hogy mit akar a
+        férfi akár pár órán belül, és amikor ez elutasításra kerül, már nem kell
+        a hölgy. 1 hónapon belül, akár 4-5 ilyen ajánlat is jöhet, de kérdezem
+        én:
+        <span class="text-red">MINEK NÉZIK A NŐKET EZEK A HÍMEK?</span>
+        Valószínű, tárgynak, biorobotnak. Már teljes érdeklődés hiánya azok
+        után, miután a nő ezt kikéri magának, jön a kőbunkó: “MEREV A FELFOGÁSOD
+        !” Részletesen ecsetelik, hogy mit tennének, és ha elutasításra
+        találnak, vagy ha a nő kulturáltan megjegyzi, hogy talán nem így kellene
+        udvarolni, és végül is mi is ez tulajdonképpen? Nem érték ma a
+        tisztességes, igaz szeretet alapú kapcsolatot tervező hölgy, mert nem ez
+        kell. Kell az azonnali beugró pár alkalomra, és szaladni tovább, jöhet a
+        következő, és így tovább.
+      </div>
+
+      <div class="p">
+        Meg sem óhajtják ismerni a férfiak ma a nőket, teljesen mindegy, hogy ki
+        milyen értékrendet képvisel, milyen gondolatai vannak, hogyan tudná
+        segíteni a férfit, és ki is ő egyáltalán, erre nem kíváncsi senki sem,
+        csak pár órán belül a teste kellene, és ennyi.
+      </div>
+      <div class="p">
+        <div class="text-green">ROHAN A VESZTÉBE A TÁRSADALOM!</div>
+        Így nem is lesznek soha új típusú, tisztességes egymás segítésén alapuló
+        kapcsolatok, az egész értelmetlen. Nincs közös cél, eszmeiség, hova
+        tovább így? Lepusztult faj, csak az ébredezők maradhatnak fenn, a többi
+        bukásra van ítélve. Állattá vált emberiség.
+      </div>
+      <div class="p text-center">
+        <img
+          src="../assets/img/blog/no_contact.jpg"
+          class="w-100"
+          style="max-width: 600px"
+        />
+      </div>
+      <div class="p">
+        <div>
+          Szellemiség, lelkiség, emberség….nagyon keveseknél találtatik.
+        </div>
+        <div class="text-red">
+          Van-e még benned emberség az embertársaid iránt, hogy érzed?
+        </div>
+      </div>
+      <div class="p">
+        <div class="text-green">
+          NEM IS BAJ, HOGY EZEK A KAPCSOLATOK AZONNALI HALÁLRA VANNAK ÍTÉLVE, DE
+          AKKOR AZ EMBERISÉG ÍTÉLI HALÁLRA MAGÁT!!!
+        </div>
+        <div>
+          Bukik az 5. faj, ha ez így megy tovább, és ekkor még csak a
+          párkapcsolatok szegmensét vizsgáltuk!
+        </div>
+        <div>
+          Természetesen ez nem igaz mindenkire, csak jó pár emberre, akik azt
+          gondolják, ezt büntetlenül megtehetik.Sajnos egyre több az ehhez
+          hasonló, sőt tömegével működik, hiszen mindent lehet.
+        </div>
+        <div class="text-red">SZABAD AKARAT, HAJRÁ!</div>
+        <div>
+          De Te eldöntheted, az
+          <span class="text-red">ISTENI TERVET SZOLGÁLOD-E</span>, vagy tarolsz,
+          és piszkítasz.
+        </div>
+      </div>
+      <div class="p">
+        <div class="text-green">EGY KIÚT VAN A DRÁMÁBÓL:</div>
+        Rájönni, csak jót érdemes tenni, s amit teszel, csak azt kapod majd
+        vissza!
+        <div>
+          Ezeket nem elhallgatni kell szemérmesen, hanem merni kell kimondani !
+        </div>
+      </div>
+      <div class="p">
+        <div>Indul a szétválasztás.</div>
+        <div>Te hova állsz be?</div>
+        <div>
+          Mindenki olyan barátokat választ, amilyen az ő szellemisége,
+          tudatszintje!
+          <div class="text-red">A Tied hol van?</div>
+        </div>
+      </div>
+      <div class="p">
+        <div class="text-green">Ébresztő, és újraélesztő üzenetem Nektek:</div>
+        <div>
+          Nézz magadba, s gondolkozz el, kit és mit szolgálsz, mert legközelebb
+          majd Tiéd a tapasztalati zóna… és lehet, hogy fájni fog….
+        </div>
+        <div>De ne higgy nekem, belátásodra bízok mindent.</div>
+        <div class="text-red">Élj, s tapasztalj!</div>
+      </div>
+      <div>Továbbra is szeretettel és ébresztéssel írva soraim:</div>
     </div>
   </div>
 </template>
