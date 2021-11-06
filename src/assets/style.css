@@ -382,11 +382,11 @@ h4 {
 }
 
 .blog-card-text {
-  overflow: hidden;
-  white-space: nowrap;
+  overflow-y: hidden;
 }
 
-.blog-card-big {
+.blog-card-big,
+.blog-card {
   background-color: var(--orange);
   border: 1px solid var(--orange);
   border-radius: 40px;
@@ -394,11 +394,19 @@ h4 {
 }
 
 .blog-card-big .title {
-  color: var(--green);
+  padding: 16px 0px;
 }
 
 .p {
   margin-bottom: 16px;
+}
+
+.blog-card .img-big {
+  display: none;
+}
+
+.blog-card .title {
+  font-size: 20px !important;
 }
 
 .introduce {

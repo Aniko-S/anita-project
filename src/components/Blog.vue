@@ -1,22 +1,25 @@
 <template>
-  <div style="margin-top: 300px">
-    <div v-for="(item, index) in items" :key="index">
-      <blog-details :item="item"></blog-details>
-    </div>
+  <div style="margin-top: 100px">
+    <blog-cards
+      v-for="(item, index) in items"
+      :key="index"
+      :item="item"
+      :id="index"
+    ></blog-cards>
   </div>
 </template>
 
 <script>
-import blogDatas from "./blogTexts.js";
-import BlogDetails from "./BlogDetails.vue";
+import { getAllBlog } from "./blogTexts.js";
+import BlogCards from "./BlogCards.vue";
 
 export default {
   components: {
-    BlogDetails,
+    BlogCards,
   },
   data() {
     return {
-      items: blogDatas,
+      items: getAllBlog(),
     };
   },
 };
