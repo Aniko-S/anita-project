@@ -1,15 +1,18 @@
 <template>
-  <div class="d-flex flex-column">
+  <div class="d-flex flex-column align-items-center">
     <div
       class="blog-card col-12 col-md-10 col-lg-9 col-xl-8"
       style="height: fit-content"
     >
-      <div class="col-12 col-md-6 p-0" style="height: fit-content">
-        <b-img
-          :src="require(`../assets/img/blog/${item.img}.jpg`)"
-          :alt="item.title"
-          class="w-100"
-        />
+      <div class="col-12 col-md-6 p-0" style="min-height: 300px">
+        <div class="d-flex h-100 justify-content-center">
+          <b-img
+            :src="require(`../assets/img/blog/${item.img}.jpg`)"
+            :alt="item.title"
+            class="w-100"
+            style="object-fit: cover"
+          />
+        </div>
       </div>
       <div
         class="col-12 col-md-6 p-3 blog-card-text"
