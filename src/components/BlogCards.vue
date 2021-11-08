@@ -1,10 +1,11 @@
 <template>
   <div class="d-flex flex-column align-items-center">
-    <div
-      class="blog-card col-12 col-md-10 col-lg-9 col-xl-8"
-      style="height: fit-content"
+    <router-link
+      :to="`/blog/${id}`"
+      target="_blank"
+      class="blog-card col-11 col-md-10 col-lg-9 col-xl-8"
     >
-      <div class="col-12 col-md-6 p-0" style="min-height: 300px">
+      <div class="col-12 col-md-6 p-0" style="height: 400px">
         <div class="d-flex h-100 justify-content-center">
           <b-img
             :src="require(`../assets/img/blog/${item.img}.jpg`)"
@@ -16,7 +17,7 @@
       </div>
       <div
         class="col-12 col-md-6 p-3 blog-card-text"
-        style="position: relative"
+        style="position: relative; height: 400px"
       >
         <div
           style="
@@ -29,16 +30,21 @@
           "
           v-html="item.text"
         ></div>
-        <router-link :to="`/blog/${id}`" target="_blank">
-          <div
-            style="position: absolute; bottom: 12px; right: 10px"
-            class="text-dark"
-          >
-            Tovább...
-          </div>
-        </router-link>
+
+        <div
+          style="
+            position: absolute;
+            bottom: 12px;
+            right: 0px;
+            left: 0px;
+            font-weight: bold;
+          "
+          class="text-dark text-center"
+        >
+          ...Tovább
+        </div>
       </div>
-    </div>
+    </router-link>
   </div>
 </template>
 

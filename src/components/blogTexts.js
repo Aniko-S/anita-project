@@ -126,8 +126,7 @@ const blogArray = [
     text: `
       <h2 class="title text-center">A "NŐ" tisztelete</h2>
       <div class="p text-center">MINDEN FÉRFI LELKÉBE ÍRÓDJON!!!!</div>
-      <div class="d-flex justify-content-center">
-        <div style="width: fit-content">
+      <div class="text-center">
           <div>
             Tisztelem a <span class="text-green">NŐ</span>-t, mert a
             <span class="text-red">Mindenséget</span>
@@ -199,8 +198,7 @@ const blogArray = [
               class="w-100"
               style="max-width: 400px"
             />
-          </div>
-        </div>
+          </div> 
       </div>
     `,
   },
@@ -385,11 +383,11 @@ const blogArray = [
     `,
   },
   {
-    title: "JŐVŐTEREMTÉS MŰVÉSZETE A TE KEZEDBEN!",
+    title: "JÖVŐTEREMTÉS MŰVÉSZETE A TE KEZEDBEN!",
     img: "jovoteremtes_muveszete",
     text: `
     <h2 class="title text-center ">
-    JŐVŐTEREMTÉS MŰVÉSZETE A TE KEZEDBEN!
+    JÖVŐTEREMTÉS MŰVÉSZETE A TE KEZEDBEN!
   </h2>
   <div class="p">
     <div class="text-red text-center">ÁLLJ KI TEREMTÉSED SZÍNPADÁRA!!!</div>

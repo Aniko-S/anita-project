@@ -13,6 +13,10 @@ export default {
   components: {
     NavBar,
   },
+  metaInfo: {
+    title: "Lélekinspirátor",
+    titleTemplate: "%s | Lélekinspirátor",
+  },
 };
 </script>
 

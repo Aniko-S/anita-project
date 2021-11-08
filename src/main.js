@@ -2,6 +2,7 @@ import Vue from "vue";
 import App from "./App";
 import { BootstrapVue, NavbarPlugin, VBScrollspyPlugin } from "bootstrap-vue";
 import VueRouter from "vue-router";
+import VueMeta from "vue-meta";
 import Fooldal from "./components/Fooldal";
 import Blog from "./components/Blog";
 import BlogDetails from "./components/BlogDetails";
@@ -11,6 +12,7 @@ Vue.use(BootstrapVue);
 Vue.use(NavbarPlugin);
 Vue.use(VBScrollspyPlugin);
 Vue.use(VueRouter);
+Vue.use(VueMeta);
 
 const routes = [
   {
