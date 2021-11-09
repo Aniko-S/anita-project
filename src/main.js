@@ -16,21 +16,22 @@ Vue.use(VueMeta);
 
 const routes = [
   {
-    path: "/anita-project",
+    path: "/",
     component: Fooldal,
   },
   {
-    path: "/anita-project/blog",
+    path: "/blog",
     component: Blog,
   },
   {
-    path: "/anita-project/blog/:id",
+    path: "/blog/:id",
     component: BlogDetails,
   },
 ];
 
 const router = new VueRouter({
   routes: routes,
+  base: process.env.BASE_URL,
   mode: "history",
 });
 
