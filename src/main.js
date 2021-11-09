@@ -16,15 +16,15 @@ Vue.use(VueMeta);
 
 const routes = [
   {
-    path: "/",
+    path: "/anita-project",
     component: Fooldal,
   },
   {
-    path: "/blog",
+    path: "/anita-project/blog",
     component: Blog,
   },
   {
-    path: "/blog/:id",
+    path: "/anita-project/blog/:id",
     component: BlogDetails,
   },
 ];
