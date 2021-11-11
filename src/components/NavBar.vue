@@ -19,14 +19,27 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
-          <b-nav-item href="/#motivacio">Motiváció</b-nav-item>
-          <b-nav-item href="/#bemutatkozas">Bemutatkozás</b-nav-item>
-          <b-nav-item href="/#kuldetes">Küldetésem</b-nav-item>
-          <b-nav-item href="/#szolgaltatasok">Szolgáltatásaim</b-nav-item>
-          <b-nav-item href="/#elerhetoseg">Elérhetőségeim</b-nav-item>
-          <b-nav-item href="/blog">Blog</b-nav-item>
+          <b-nav-item :href="`${path}#motivacio`">Motiváció</b-nav-item>
+
+          <b-nav-item :href="`${path}#bemutatkozas`">Bemutatkozás</b-nav-item>
+          <b-nav-item :href="`${path}#kuldetes`">Küldetésem</b-nav-item>
+          <b-nav-item :href="`${path}#szolgaltatasok`"
+            >Szolgáltatásaim</b-nav-item
+          >
+          <b-nav-item :href="`${path}#elerhetoseg`">Elérhetőségeim</b-nav-item>
+          <b-nav-item :href="`${path}blog`">Blog</b-nav-item>
         </ul>
       </div>
     </div>
   </b-nav>
 </template>
+
+<script>
+export default {
+  data() {
+    return {
+      path: process.env.BASE_URL,
+    };
+  },
+};
+</script>

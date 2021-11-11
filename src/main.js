@@ -6,6 +6,7 @@ import VueMeta from "vue-meta";
 import Fooldal from "./components/Fooldal";
 import Blog from "./components/Blog";
 import BlogDetails from "./components/BlogDetails";
+//import Inspirallak from "./components/Inspirallak";
 
 Vue.config.productionTip = false;
 Vue.use(BootstrapVue);
@@ -33,6 +34,14 @@ const router = new VueRouter({
   routes: routes,
   base: process.env.BASE_URL,
   mode: "history",
+  scrollBehavior: function(to) {
+    if (to.hash) {
+      return {
+        selector: to.hash,
+        offset: { x: 0, y: 60 },
+      };
+    }
+  },
 });
 
 new Vue({
