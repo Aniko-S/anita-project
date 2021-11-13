@@ -174,6 +174,10 @@ h4 {
   color: var(--green);
 }
 
+.link-green:hover {
+  color: var(--dark-green);
+}
+
 @media screen and (min-width: 992px) {
   .w-100.w-sm-75.w-lg-50 {
     width: 50% !important;

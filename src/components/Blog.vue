@@ -4,7 +4,7 @@
       v-for="(item, index) in items"
       :key="index"
       :item="item"
-      :id="index"
+      :id="item.id"
     ></blog-cards>
   </div>
 </template>

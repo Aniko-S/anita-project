@@ -31,9 +31,33 @@ export default {
       return getBlog(this.id);
     },
   },
+
   metaInfo() {
     return {
       title: this.blog.title,
+      meta: [
+        {
+          property: "og:title",
+          content: this.blog.title,
+        },
+        {
+          property: "og:image",
+          content: `https://aniko-s.github.io/anita-project/${this.blog.img}.jpg`,
+        },
+        {
+          property: "og:description",
+          content:
+            "Dr Steiber Anita tudatosságfejlesztő tréner, aranykori párkapcsolati coach, lélekinspirátor",
+        },
+        {
+          property: "og:url",
+          content: `https://aniko-s.github.io/anita-project/blog/${this.id}`,
+        },
+        {
+          property: "og:type",
+          content: "article",
+        },
+      ],
     };
   },
 };

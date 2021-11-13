@@ -1,6 +1,7 @@
 const blogArray = [
   {
     title: "NŐI ERŐ ÉBRESZTŐ",
+    id: "noi_ero_ebreszto",
     img: "noi_ero",
     text: `
       <h2 class="title text-center">NŐI ERŐ ÉBRESZTŐ</h2>
@@ -36,7 +37,7 @@ const blogArray = [
         </div>
         <div class="col-12 col-md-6 col-lg-8 text-center pt-3 img-big">
           <img
-            src="/noi_ero.jpg"
+            src="${process.env.BASE_URL}noi_ero.jpg"
             class="w-75"
             style="max-width: 350px"
           />
@@ -46,6 +47,7 @@ const blogArray = [
   },
   {
     title: "UTÁNZAT VAGY, VAGY UTÁNOZHATATLAN?",
+    id: "utanzat_vagy_utanozhatatlan",
     img: "utanzat",
     text: `
       <h2 class="title text-center">UTÁNZAT VAGY, VAGY UTÁNOZHATATLAN?</h2>
@@ -72,7 +74,7 @@ const blogArray = [
       </div>
       <div class="p text-center img-big">
         <img
-          src="/utanzat.jpg"
+          src="${process.env.BASE_URL}utanzat.jpg"
           class="w-100"
           style="max-width: 600px"
         />
@@ -122,6 +124,7 @@ const blogArray = [
   },
   {
     title: 'A "NŐ" tisztelete',
+    id: "a_no_tisztelete",
     img: "no_tisztelete",
     text: `
       <h2 class="title text-center">A "NŐ" tisztelete</h2>
@@ -194,7 +197,7 @@ const blogArray = [
           </div>
           <div class="p text-center img-big">
             <img
-              src="/no_tisztelete.jpg"
+              src="${process.env.BASE_URL}no_tisztelete.jpg"
               class="w-100"
               style="max-width: 400px"
             />
@@ -204,6 +207,7 @@ const blogArray = [
   },
   {
     title: "SORSOD FELETTI HATALMAD",
+    id: "sorsod_feletti_hatalmad",
     img: "sorsod_felett",
     text: `
       <h2 class="title text-center">SORSOD FELETTI HATALMAD</h2>
@@ -256,7 +260,7 @@ const blogArray = [
       </div>
       <div class="p text-center img-big">
         <img
-          src="/sorsod_felett.jpg"
+          src="${process.env.BASE_URL}sorsod_felett.jpg"
           class="w-100"
           style="max-width: 400px"
         />
@@ -290,6 +294,7 @@ const blogArray = [
   },
   {
     title: "ISTEN BEAVATOTT SZOLGÁLÓJA VAGY",
+    id: "isten_beavatott_szolgaloja_vagy",
     img: "isten_szolgaloja",
     text: `
       <h2 class="title text-center">ISTEN BEAVATOTT SZOLGÁLÓJA VAGY</h2>
@@ -307,7 +312,7 @@ const blogArray = [
       <div class="p text-red text-center">ISTEN BEAVATOTT SZOLGÁLÓJA VAGY.</div>
       <div class="p text-center img-big">
         <img
-          src="/isten_szolgaloja.jpg"
+          src="${process.env.BASE_URL}isten_szolgaloja.jpg"
           class="w-100"
           style="max-width: 600px"
         />
@@ -384,6 +389,7 @@ const blogArray = [
   },
   {
     title: "JÖVŐTEREMTÉS MŰVÉSZETE A TE KEZEDBEN!",
+    id: "jovoteremtes_muveszete_a_te_kezedben",
     img: "jovoteremtes_muveszete",
     text: `
     <h2 class="title text-center ">
@@ -418,7 +424,7 @@ const blogArray = [
   </div>
   <div class="p text-center img-big">
     <img
-      src="/jovoteremtes_muveszete.jpg"
+      src="${process.env.BASE_URL}jovoteremtes_muveszete.jpg"
       class="w-100"
       style="max-width: 600px"
     />
@@ -477,7 +483,8 @@ const blogArray = [
   </div>`,
   },
   {
-    title: "FELBUKKANT EGY ÚJABB JELENSÉG: A ” HASZNÁLATI NŐK” FOGALMA!",
+    title: "FELBUKKANT EGY ÚJABB JELENSÉG: A ”HASZNÁLATI NŐK” FOGALMA!",
+    id: "a_hasznalati_nok_fogalma",
     img: "hasznalati_nok",
     text: `
     <h2 class="title text-center ">
@@ -585,7 +592,7 @@ const blogArray = [
 
       <div class="p text-center img-big">
         <img
-          src="/hasznalati_nok.jpg"
+          src="${process.env.BASE_URL}hasznalati_nok.jpg"
           class="w-100"
           style="max-width: 600px"
         />
@@ -673,6 +680,7 @@ const blogArray = [
   },
   {
     title: "AZ VAGY, AMIT BEENGEDSZ A TUDATODBA!",
+    id: "az_vagy_amit_beengedsz_a_tudatodba",
     img: "beengedsz_tudatodba",
     text: `
     <h2 class="title text-center ">
@@ -693,7 +701,7 @@ const blogArray = [
       </div>
       <div class="p text-center img-big">
         <img
-          src="/beengedsz_tudatodba.jpg"
+          src="${process.env.BASE_URL}beengedsz_tudatodba.jpg"
           class="w-100"
           style="max-width: 600px"
         />
@@ -758,6 +766,7 @@ const blogArray = [
   },
   {
     title: "MITŐL ÉRTÉK AZ ÉRTÉK?",
+    id: "mitol_ertek_az_ertek",
     img: "ertek",
     text: `
     <h2 class="title text-center ">MITŐL ÉRTÉK AZ ÉRTÉK?</h2>
@@ -788,7 +797,7 @@ const blogArray = [
       </div>
       <div class="p text-center img-big">
         <img
-          src="/ertek.jpg"
+          src="${process.env.BASE_URL}ertek.jpg"
           class="w-100"
           style="max-width: 400px"
         />
@@ -825,6 +834,7 @@ const blogArray = [
   },
   {
     title: "ISTEN ANYA ÁLDÁSA",
+    id: "isten_anya_aldasa",
     img: "isten_anya",
     text: `
     <h2 class="title text-center ">ISTEN ANYA ÁLDÁSA</h2>
@@ -877,7 +887,7 @@ const blogArray = [
         </div>
         <div class="col-12 col-md-6 text-center img-big">
           <img
-            src="/isten_anya.jpg"
+            src="${process.env.BASE_URL}isten_anya.jpg"
             class="w-75"
             style="max-width: 350px"
           />
@@ -887,6 +897,7 @@ const blogArray = [
   },
   {
     title: "MERSZ-E ELKÖTELEZŐDNI SAJÁT MAGAD MELLETT?",
+    id: "mersz-e_elkotelezodni_sajat_magad_mellett",
     img: "elkotelezodni",
     text: `
     <h2 class="title text-center ">
@@ -916,7 +927,7 @@ const blogArray = [
       </div>
       <div class="p text-center img-big">
         <img
-          src="/elkotelezodni.jpg"
+          src="${process.env.BASE_URL}elkotelezodni.jpg"
           class="w-100"
           style="max-width: 500px"
         />
@@ -960,6 +971,7 @@ const blogArray = [
   {
     title:
       "AZ IMPLANTÁTUMAID BŰVÖLETÉBEN ÉLSZ, AVAGY ÍGY AKARSZ TÖBBNEK LÁTSZANI?",
+    id: "az_implantatum_buvoleteben_elsz",
     img: "implantatum",
     text: `
     <h2 class="title text-center ">
@@ -988,7 +1000,7 @@ const blogArray = [
       </div>
       <div class="p text-center img-big">
         <img
-          src="/implantatum.jpg"
+          src="${process.env.BASE_URL}implantatum.jpg"
           class="w-100"
           style="max-width: 400px"
         />
@@ -1073,6 +1085,7 @@ const blogArray = [
   },
   {
     title: "LÉLEKVADÁSZAT",
+    id: "lelekvadaszat",
     img: "lelekvadaszat",
     text: `
     <h2 class="title text-center ">LÉLEKVADÁSZAT</h2>
@@ -1114,7 +1127,7 @@ const blogArray = [
       </div>
       <div class="p text-center img-big">
         <img
-          src="/lelekvadaszat.jpg"
+          src="${process.env.BASE_URL}lelekvadaszat.jpg"
           class="w-100"
           style="max-width: 400px"
         />
@@ -1204,6 +1217,7 @@ const blogArray = [
   },
   {
     title: "INSPIRÁTOROK A FEDÉLZETEN",
+    id: "inspiratorok_a_fedelzeten",
     img: "inspiratorok",
     text: `
     <h2 class="title text-center ">INSPIRÁTOROK A FEDÉLZETEN</h2>
@@ -1219,7 +1233,7 @@ const blogArray = [
     </div>
     <div class="p text-center img-big">
       <img
-        src="/inspiratorok.jpg"
+        src="${process.env.BASE_URL}inspiratorok.jpg"
         class="w-100"
         style="max-width: 600px"
       />
@@ -1311,6 +1325,7 @@ const blogArray = [
   },
   {
     title: "VILÁGÍTÓTORONY VAGY!",
+    id: "vilagitotorony_vagy",
     img: "vilagitotorony",
     text: `
     <h2 class="title text-center ">VILÁGÍTÓTORONY VAGY!</h2>
@@ -1373,7 +1388,7 @@ const blogArray = [
     </div>
     <div class="p text-center img-big">
       <img
-        src="/vilagitotorony.jpg"
+        src="${process.env.BASE_URL}vilagitotorony.jpg"
         class="w-100"
         style="max-width: 600px"
       />
@@ -1437,6 +1452,7 @@ const blogArray = [
   },
   {
     title: "KAPCSOLÓDÁSOK AZONNALI MEGSZŰNÉSE!",
+    id: "kapcsolodasok_azonnali_megszunese",
     img: "no_contact",
     text: `
     <h2 class="title text-center ">
@@ -1480,7 +1496,7 @@ const blogArray = [
       </div>
       <div class="p text-center img-big">
         <img
-          src="/no_contact.jpg"
+          src="${process.env.BASE_URL}no_contact.jpg"
           class="w-100"
           style="max-width: 600px"
         />
@@ -1545,6 +1561,7 @@ const blogArray = [
   },
   {
     title: "RANDOM KAPCSOLATOK VILÁGA",
+    id: "random_kapcsolatok_vilaga",
     img: "random_kapcsolat",
     text: `
     <h2 class="title text-center ">RANDOM KAPCSOLATOK VILÁGA</h2>
@@ -1581,7 +1598,7 @@ const blogArray = [
       </div>
       <div class="p text-center img-big">
         <img
-          src="/random_kapcsolat.jpg"
+          src="${process.env.BASE_URL}random_kapcsolat.jpg"
           class="w-100"
           style="max-width: 400px"
         />
@@ -1713,6 +1730,7 @@ const blogArray = [
   },
   {
     title: "PILLANGÓ EFFEKTUS",
+    id: "pillango_effektus",
     img: "pillango_effektus",
     text: `
     <h2 class="title text-center ">PILLANGÓ EFFEKTUS</h2>
@@ -1762,7 +1780,7 @@ const blogArray = [
       </div>
       <div class="p text-center img-big">
         <img
-          src="/pillango_effektus.jpg"
+          src="${process.env.BASE_URL}pillango_effektus.jpg"
           class="w-100"
           style="max-width: 600px"
         />
@@ -1822,6 +1840,7 @@ const blogArray = [
   },
   {
     title: "LEGYÉL ÉRTÉKTEREMTŐ!",
+    id: "legyel_ertekteremto",
     img: "ertekteremto",
     text: `
     <h2 class="title text-center ">LEGYÉL ÉRTÉKTEREMTŐ!</h2>
@@ -1867,7 +1886,7 @@ const blogArray = [
       </div>
       <div class="p text-center img-big">
         <img
-          src="/ertekteremto.jpg"
+          src="${process.env.BASE_URL}ertekteremto.jpg"
           class="w-100"
           style="max-width: 600px"
         />
@@ -1994,6 +2013,7 @@ const blogArray = [
   },
   {
     title: "SZABADSÁG, SZERELEM, E KETTŐ KELL NEKEM!",
+    id: "szabadsag_szerelem",
     img: "szabadsag_szerelem",
     text: `
     <h2 class="title text-center ">
@@ -2067,7 +2087,7 @@ const blogArray = [
       </div>
       <div class="p text-center img-big">
         <img
-          src="/szabadsag_szerelem.jpg"
+          src="${process.env.BASE_URL}szabadsag_szerelem.jpg"
           class="w-100"
           style="max-width: 400px"
         />
@@ -2137,6 +2157,7 @@ const blogArray = [
   },
   {
     title: "PÓKHÁLÓBONTÁS",
+    id: "pokhalobontas",
     img: "pokhalo",
     text: `
     <h2 class="title text-center ">PÓKHÁLÓBONTÁS</h2>
@@ -2151,7 +2172,7 @@ const blogArray = [
       </div>
       <div class="p text-center img-big">
         <img
-          src="/pokhalo.jpg"
+          src="${process.env.BASE_URL}pokhalo.jpg"
           class="w-100"
           style="max-width: 400px"
         />
@@ -2316,6 +2337,7 @@ const blogArray = [
   },
   {
     title: "A NAGY SAKKJÁTSZMA",
+    id: "a_nagy_sakkjatszma",
     img: "sakk",
     text: `
   <h2 class="title text-center ">A NAGY SAKKJÁTSZMA</h2>
@@ -2358,7 +2380,7 @@ const blogArray = [
   </div>
   <div class="p text-center img-big">
     <img
-      src="/sakk.jpg"
+      src="${process.env.BASE_URL}sakk.jpg"
       class="w-100"
       style="max-width: 500px"
     />
@@ -2451,6 +2473,7 @@ const blogArray = [
   },
   {
     title: "ÉRTÉKVESZTETT EMBERISÉG, AVAGY TE IS ELVESZTETTED EMBERI ÉRTÉKED?",
+    id: "ertekvesztett_emberiseg",
     img: "emberi_ertek",
     text: `
     <h2 class="title text-center ">
@@ -2506,7 +2529,7 @@ const blogArray = [
       </div>
       <div class="p text-center img-big">
         <img
-          src="/emberi_ertek.jpg"
+          src="${process.env.BASE_URL}emberi_ertek.jpg"
           class="w-100"
           style="max-width: 400px"
         />
@@ -2604,6 +2627,7 @@ const blogArray = [
   },
   {
     title: "MIÉRT SZÁGULD A SPIRIBIZNISZ?",
+    id: "miert_szaguld_a_spiribiznisz",
     img: "vonat",
     text: `
     <h2 class="title text-center ">MIÉRT SZÁGULD A SPIRIBIZNISZ?</h2>
@@ -2635,7 +2659,7 @@ const blogArray = [
       </div>
       <div class="p text-center img-big">
         <img
-          src="/vonat.jpg"
+          src="${process.env.BASE_URL}vonat.jpg"
           class="w-100"
           style="max-width: 500px"
         />
@@ -2738,6 +2762,7 @@ const blogArray = [
   },
   {
     title: "ÉRZELEMMENTES KAPCSOLATOK",
+    id: "erzelemmentes_kapcsolatok",
     img: "erzelemmentes_kapcsolat",
     text: `
     <h2 class="title text-center ">ÉRZELEMMENTES KAPCSOLATOK</h2>
@@ -2769,7 +2794,7 @@ const blogArray = [
       </div>
       <div class="p text-center img-big">
         <img
-          src="/erzelemmentes_kapcsolat.jpg"
+          src="${process.env.BASE_URL}erzelemmentes_kapcsolat.jpg"
           class="w-100"
           style="max-width: 400px"
         />
@@ -2835,6 +2860,7 @@ const blogArray = [
   },
   {
     title: "LÉLEKBŐL KAPCSOLÓDNI",
+    id: "lelekbol_kapcsolodni",
     img: "lelekbol_kapcsolodni",
     text: `
     <h2 class="title text-center ">LÉLEKBŐL KAPCSOLÓDNI</h2>
@@ -2868,7 +2894,7 @@ const blogArray = [
         </div>
         <div class="p text-center img-big">
           <img
-            src="/lelekbol_kapcsolodni.jpg"
+            src="${process.env.BASE_URL}lelekbol_kapcsolodni.jpg"
             class="w-100"
             style="max-width: 400px"
           />
@@ -2914,7 +2940,7 @@ function getAllBlog() {
 }
 
 function getBlog(id) {
-  return blogArray[id];
+  return blogArray.find((blog) => blog.id === id);
 }
 
 export { getAllBlog, getBlog };

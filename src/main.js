@@ -3,10 +3,11 @@ import App from "./App";
 import { BootstrapVue, NavbarPlugin, VBScrollspyPlugin } from "bootstrap-vue";
 import VueRouter from "vue-router";
 import VueMeta from "vue-meta";
+import VueSocialSharing from "vue-social-sharing";
+import VueHead from "vue-head";
 import Fooldal from "./components/Fooldal";
 import Blog from "./components/Blog";
 import BlogDetails from "./components/BlogDetails";
-//import Inspirallak from "./components/Inspirallak";
 
 Vue.config.productionTip = false;
 Vue.use(BootstrapVue);
@@ -14,6 +15,8 @@ Vue.use(NavbarPlugin);
 Vue.use(VBScrollspyPlugin);
 Vue.use(VueRouter);
 Vue.use(VueMeta);
+Vue.use(VueSocialSharing);
+Vue.use(VueHead);
 
 const routes = [
   {

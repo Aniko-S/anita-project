@@ -13,8 +13,10 @@
     "bootstrap-vue": "^2.21.2",
     "core-js": "^3.6.5",
     "vue": "^2.6.11",
+    "vue-head": "^2.2.0",
     "vue-meta": "^2.4.0",
-    "vue-router": "^3.5.3"
+    "vue-router": "^3.5.3",
+    "vue-social-sharing": "^3.0.8"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",

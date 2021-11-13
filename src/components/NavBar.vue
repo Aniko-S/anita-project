@@ -5,7 +5,9 @@
     v-b-scrollspy="100"
   >
     <div class="container">
-      <a class="navbar-brand text-gold" href="/#kezdolap"> Lélekinspirátor </a>
+      <a class="navbar-brand text-gold" :href="`${path}#kezdolap`">
+        Lélekinspirátor
+      </a>
       <button
         class="navbar-toggler"
         type="button"

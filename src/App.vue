@@ -15,7 +15,6 @@ export default {
   },
   metaInfo: {
     title: "Lélekinspirátor",
-    titleTemplate: "%s | Lélekinspirátor",
   },
 };
 </script>
