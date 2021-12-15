@@ -33,6 +33,21 @@
           </div>
         </div>
       </div>
+      <div class="text-center mt-5">
+        <a :href="`${path}adatkezelesi_tajekoztato`" class="link">
+          Az adatkezelési tájékoztatót ide kattintva tekintheti meg.
+        </a>
+      </div>
     </div>
   </div>
 </template>
+
+<script>
+export default {
+  data() {
+    return {
+      path: process.env.BASE_URL,
+    };
+  },
+};
+</script>
