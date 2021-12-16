@@ -35,7 +35,7 @@
       </div>
       <div class="text-center mt-5">
         <a :href="`${path}adatkezelesi_tajekoztato`" class="link">
-          Az adatkezelési tájékoztatót ide kattintva tekintheti meg.
+          Az Adatkezelési tájékoztatót ide kattintva tekintheti meg.
         </a>
       </div>
     </div>

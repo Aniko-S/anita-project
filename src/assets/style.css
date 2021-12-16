@@ -545,3 +545,11 @@ h4 {
     grid-row-end: 4;
   }
 }
+
+.main-ol {
+  padding-left: 20px;
+}
+
+.main-ol > li > ol {
+  padding-left: 10px;
+}

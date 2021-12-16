@@ -65,7 +65,7 @@
               <list-item text="Pszichotronika" />
               <list-item text="Szellemgyógyászat" />
               <list-item
-                text="Komplementer Mediána (Bioinformatika) – Yamamoto Intézet"
+                text="Komplementer Medicina (Bioinformatika) – Yamamoto Intézet"
               />
               <list-item text="Radiesztézia" />
             </div>

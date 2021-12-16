@@ -20,7 +20,9 @@
         <div class="w-100 my-4">
           <img src="../assets/img/onmagunk.png" width="200" />
         </div>
-        <h4 class="pt-3 pb-2 px-1">Egy boldog önismeréshez és kifejezéshez!</h4>
+        <h4 class="pt-3 pb-2 px-1">
+          Egy boldog önfelismeréshez és kifejezéshez!
+        </h4>
       </div>
     </div>
   </div>

@@ -4,9 +4,11 @@
       <h3>Adatvédelmi és adatkezelési nyilatkozat</h3>
       <div>2021.12.16. napjától határozatlan ideig</div>
     </div>
-    <ol type="I" class="mt-5">
+    <ol type="I" class="mt-5 main-ol">
       <li>
-        <strong>Alapelvek, meghatározások</strong>
+        <strong style="text-decoration: underline"
+          >Alapelvek, meghatározások</strong
+        >
         <ol>
           <li class="my-3">
             A
@@ -125,7 +127,7 @@
         </ol>
       </li>
       <li class="mt-5">
-        <strong>
+        <strong style="text-decoration: underline">
           A lelekinspirator.hu honlap megtekintésével kapcsolatos adatkezelés
         </strong>
         <ol>
@@ -159,7 +161,7 @@
         </ol>
       </li>
       <li class="mt-5">
-        <strong>
+        <strong style="text-decoration: underline">
           Az egyes tevékenységekre vonatkozó adatkezelések részletezése
         </strong>
         <ol>
@@ -260,7 +262,9 @@
         </ol>
       </li>
       <li class="mt-5">
-        <strong>Az adatokhoz való hozzáférés</strong>
+        <strong style="text-decoration: underline"
+          >Az adatokhoz való hozzáférés</strong
+        >
         <ol>
           <li class="my-3">
             Az Ön által megadott személyes adatokhoz az Adatkezelő férhet hozzá.
@@ -293,7 +297,9 @@
         </ol>
       </li>
       <li class="mt-5">
-        <strong>Adatbiztonsági intézkedések</strong>
+        <strong style="text-decoration: underline"
+          >Adatbiztonsági intézkedések</strong
+        >
         <ol>
           <li class="my-3">
             Az Adatkezelő az Ön által megadott személyes adatokat elsődlegesen a
@@ -311,7 +317,9 @@
         </ol>
       </li>
       <li class="mt-5">
-        <strong>Az Adatkezeléssel kapcsolatos jogok</strong>
+        <strong style="text-decoration: underline"
+          >Az Adatkezeléssel kapcsolatos jogok</strong
+        >
         <ol>
           <li class="my-3">
             <strong>A tájékoztatás kéréshez való jog</strong>
@@ -407,7 +415,7 @@
         </ol>
       </li>
       <li class="mt-5">
-        <strong
+        <strong style="text-decoration: underline"
           >Eljárás az adatkezeléssel kapcsolatos jogok gyakorlásának
           sikertelensége esetén</strong
         >
@@ -426,7 +434,7 @@
         </div>
       </li>
       <li class="my-3">
-        <strong
+        <strong style="text-decoration: underline"
           >Az adatkezeléssel kapcsolatos jogérvényesítési lehetőség</strong
         >
         <div class="my-3">
