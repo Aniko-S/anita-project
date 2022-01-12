@@ -1,6 +1,9 @@
 <template>
   <div class="section">
     <h1 id="szolgaltatasok" class="text-center py-4">Szolgáltatásaim</h1>
+    <div class="text-red text-center mb-4" style="font-size: 18px">
+      A szolgáltatások 2022. február 2-tól vehetők igénybe!
+    </div>
     <div class="bg-orange rounded-card mx-3 mx-md-4 mx-lg-5 py-4 shadow">
       <h4 class="text-center text-red">EGYÉNI KONZULTÁCIÓK</h4>
       <div

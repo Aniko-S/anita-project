@@ -42,7 +42,7 @@ export default {
         },
         {
           property: "og:image",
-          content: `https://aniko-s.github.io/anita-project/${this.blog.img}.jpg`,
+          content: `http://www.lelekinspirator.hu/${this.blog.img}.jpg`,
         },
         {
           property: "og:description",
@@ -51,7 +51,7 @@ export default {
         },
         {
           property: "og:url",
-          content: `https://aniko-s.github.io/anita-project/blog/${this.id}`,
+          content: `http://www.lelekinspirator.hu/blog/${this.id}`,
         },
         {
           property: "og:type",
