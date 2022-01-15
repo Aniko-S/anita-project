@@ -123,7 +123,8 @@
               </div>
               <list-item text="Szeretet hírnökei" />
               <list-item text="Szív útja" />
-              <list-item text="Krisztus Tudat Tudók" />
+              <list-item text="Krisztus Tudat" />
+              <list-item text="Tudók" />
               <list-item text="Igazak" />
               <list-item text="Tiszta lelkűek" />
               <list-item text="Ősi erkölcs követői" />

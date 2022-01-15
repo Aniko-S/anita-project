@@ -21,7 +21,7 @@
           <img src="../assets/img/onmagunk.png" width="200" />
         </div>
         <h4 class="pt-3 pb-2 px-1">
-          Egy boldog önfelismeréshez és kifejezéshez!
+          Egy boldog önfelismeréshez és önkifejezéshez!
         </h4>
       </div>
     </div>

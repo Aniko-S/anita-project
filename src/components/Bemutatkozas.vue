@@ -75,7 +75,7 @@
             <list-item text="Bach virágterápia (Éden Központ)" />
             <list-item text="Karakternumerologia" />
             <list-item text="Hormonegyensúly Tanácsadás" />
-            <list-item text="Access Bars, M.T.V. SS., Face Liftierg" />
+            <list-item text="Access Bars, M.T.V. SS., Face Lifting" />
             <list-item text="Théta Healing konzulens" />
             <list-item text="Párkapcsolati Coach – Várnay Myrtill" />
             <list-item
