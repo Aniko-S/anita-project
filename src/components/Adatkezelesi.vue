@@ -2,7 +2,7 @@
   <div class="section py-5 px-3">
     <div class="text-center">
       <h3>Adatvédelmi és adatkezelési nyilatkozat</h3>
-      <div>2021.12.16. napjától határozatlan ideig</div>
+      <div>2024.01.02. napjától határozatlan ideig</div>
     </div>
     <ol type="I" class="mt-5 main-ol">
       <li>
@@ -13,14 +13,13 @@
           <li class="my-3">
             A
             <strong> lelekinspirator.hu </strong>
-            honlap, illetve az
-            <strong> Aranyfrekvencia </strong>
-            (Székhely: 6726 Szeged, Derkovits fasor 67.; Adószám: 53567086-1-26;
-            Nyilvántartási szám: 55967107; képviseletre jogosult: Begovits
-            László egyéni vállalkozó) tevékenysége során felmerülő személyes
-            adatok kezelésével kapcsolatos kérdésekről az adatkezelések
-            megkezdése előtt a jelen „Adatvédelmi és adatkezelési nyilatkozat”
-            dokumentum (a továbbiakban:
+            honlap, illetve
+            <strong> Dr Steiber Anita egyéni vállalkozó </strong>
+            (Székhely: 6726 Szeged, Déryné utca 4/A, 2.em. 4.; Adószám:
+            78972140-1-26; Nyilvántartási szám: 58849701) tevékenysége során
+            felmerülő személyes adatok kezelésével kapcsolatos kérdésekről az
+            adatkezelések megkezdése előtt a jelen „Adatvédelmi és adatkezelési
+            nyilatkozat” dokumentum (a továbbiakban:
             <strong> Nyilatkozat </strong>
             ) nyújt tájékoztatást az adatok kezelésével kapcsolatos tényekről,
             így különösen az adatkezelések céljáról, jogalapjáról, az
@@ -81,17 +80,16 @@
             <div class="my-3">
               <strong>Jelen Nyilatkozat szerinti adatkezelő:</strong>
               <div>
-                Aranyfrekvencia (Székhely: 6726 Szeged, Derkovits fasor 67.;
-                Adószám: 53567086-1-26; Nyilvántartási szám: 55967107;
-                képviseletre jogosult: Begovits László egyéni vállalkozó; a
-                továbbiakban: adatkezelő). A személyes adatokat az adatkezelő a
-                vonatkozó adatkezelési célhoz kapcsolódó hozzáférési
-                jogosultságokkal rendelkező ügyvezetője, illetve az adatkezelő
-                részére szolgáltatási szerződések alapján adatfeldolgozási
-                tevékenységet végző személyek, szervezetek, illetve az
-                adatkezelő alkalmazásában álló személyek ismerhetik meg, az
-                adatkezelő által meghatározott terjedelemben és a tevékenységük
-                végzéséhez szükséges mértékben.
+                Dr Steiber Anita egyéni vállalkozó (Székhely: 6726 Szeged,
+                Déryné utca 4/A, 2.em. 4.; Adószám: 78972140-1-26;
+                Nyilvántartási szám: 58849701; a továbbiakban: adatkezelő). A
+                személyes adatokat az adatkezelő a vonatkozó adatkezelési célhoz
+                kapcsolódó hozzáférési jogosultságokkal rendelkező ügyvezetője,
+                illetve az adatkezelő részére szolgáltatási szerződések alapján
+                adatfeldolgozási tevékenységet végző személyek, szervezetek,
+                illetve az adatkezelő alkalmazásában álló személyek ismerhetik
+                meg, az adatkezelő által meghatározott terjedelemben és a
+                tevékenységük végzéséhez szükséges mértékben.
               </div>
             </div>
             <div>
@@ -445,7 +443,7 @@
         </div>
       </li>
     </ol>
-    <div class="mt-5">Szeged, 2021.12.16.</div>
+    <div class="mt-5">Szeged, 2024.01.02.</div>
   </div>
 </template>
   
